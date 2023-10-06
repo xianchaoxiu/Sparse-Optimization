@@ -1,6 +1,6 @@
-# Sparse and Manifold Optimization
+# Statistical Machine Learning
 
-We focus on onconvex nonsmooth optimization problems with sparsity and manifolds, including 
+We focus nonconvex nonsmooth optimization problems in statistical machine learning, including 
 - Sparse Optimization
 - Manifold Optimization
 - Distributed Optimization
