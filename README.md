@@ -11,10 +11,18 @@ We focus nonconvex nonsmooth optimization problems in statistical machine learni
 
 
 ## Sparse Optimization
+
+### Surveys
+- [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
+- [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
+
+### First-Order Methods
 - [2023] Revisiting Lq (0<=q<1) norm regularized optimization [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
 - [2022] Gradient projection Newton pursuit for sparsity constrained optimization [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
+- [2022] Column L2,0-Norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIOPT [[paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 
-Column L2,0-norm regularized factorization model of low-rank matrix recovery and its computation
+### Second-Order Methods
+
 
 
 ## Manifold Optimization
