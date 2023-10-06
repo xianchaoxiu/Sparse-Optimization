@@ -1,8 +1,8 @@
 # Statistical Machine Learning
 
 We focus on statistical machine learning with sparsity and manifolds, including 
--Distributed Optimization
--Federated Learning
+- Distributed Optimization
+- Federated Learning
 
 <strong>Last Update: October, 2023</strong>
 
