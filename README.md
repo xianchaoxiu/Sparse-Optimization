@@ -1,10 +1,20 @@
-# Statistical Machine Learning
+# Sparse and Manifold Optimization
 
-We focus on statistical machine learning problems with sparsity and manifolds, including 
+We focus on onconvex nonsmooth optimization problems with sparsity and manifolds, including 
+- Sparse Optimization
 - Manifold Optimization
-- Distributed Learning
+- Distributed Optimization
 
 <strong>Last Update: October, 2023</strong>
+
+
+
+
+## Sparse Optimization
+- [2023] Revisiting Lq (0<=q<1) norm regularized optimization [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
+- [2022] Gradient projection Newton pursuit for sparsity constrained optimization [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
+
+Column L2,0-norm regularized factorization model of low-rank matrix recovery and its computation
 
 
 ## Manifold Optimization
@@ -20,7 +30,7 @@ We focus on statistical machine learning problems with sparsity and manifolds, i
 - [2020] A Brief Introduction to Manifold Optimization, JOSRC [[paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 
 
-## Distributed Learning
+## Distributed Optimization
 - [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, COAP [[paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
 - [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
