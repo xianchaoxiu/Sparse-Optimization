@@ -15,14 +15,12 @@
 
 ----
 
-----
-
 ##  Federated Learning
 
 #### Reference  
 - [Awesome-Federated-Learning](https://github.com/FedML-AI/FedML/blob/master/research/Awesome-Federated-Learning.md)
 - [FedML - The Most Popular Federated Learning Library](https://fedml.ai/)
-----
+
 
 
 
