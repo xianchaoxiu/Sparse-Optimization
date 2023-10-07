@@ -5,7 +5,7 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 - Manifold Optimization
 - Distributed Optimization
 
-<strong>Last Update: October, 2023</strong>
+<strong> Last Update: October, 2023 </strong>
 
 
 
