@@ -26,9 +26,6 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 
 ## Manifold Optimization
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, MP [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
-- [2023] Sparse PCA via l2,p-Norm Regularization for Unsupervised Feature Selection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9580680)] [[code](https://github.com/quiter2005/algorithm)]
-- [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)]
-- [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Solving Large-Scale Sparse PCA to Certifiable (Near) Optimality, JMLR [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]
 - [2021] Exact Penalty Function for L2,1 Norm Minimization over the Stiefel Manifold, SIOPT [[paper](https://epubs.siam.org/doi/abs/10.1137/20M1354313)]
 - [2021] Majorization-Minimization on the Stiefel Manifold With Application to Robust Sparse PCA, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9354027)]
