@@ -26,7 +26,6 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 
 ## Manifold Optimization
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, MP [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
-- [2022] Solving Large-Scale Sparse PCA to Certifiable (Near) Optimality, JMLR [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]
 - [2021] Exact Penalty Function for L2,1 Norm Minimization over the Stiefel Manifold, SIOPT [[paper](https://epubs.siam.org/doi/abs/10.1137/20M1354313)]
 - [2021] Majorization-Minimization on the Stiefel Manifold With Application to Robust Sparse PCA, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9354027)]
 - [2021] Clustering by Orthogonal NMF Model and Non-Convex Penalty Optimization, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9508841)]
@@ -45,8 +44,6 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 ## Distributed Optimization
 - [2023] Federated learning via inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
-- [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, COAP [[paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
-- [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2021] On Distributed Nonconvex Optimization: Projected Subgradient Method for Weakly Convex Problems in Networks, IEEE TAC [[paper](https://ieeexplore.ieee.org/abstract/document/9345428)]
 - [2021] Decentralized Riemannian gradient descent on the Stiefel manifold, ICML [[paper](https://proceedings.mlr.press/v139/chen21g.html)] [[code](https://github.com/chenshixiang/Decentralized_Riemannian_gradient_descent_on_Stiefel_manifold)]
