@@ -14,7 +14,7 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 
 <a name="Optmization" />
 
-## Optmization Methods
+## Optmization
 
 <a name="Sparse_Optimization" />
 
