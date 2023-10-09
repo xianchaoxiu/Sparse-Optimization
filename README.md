@@ -33,7 +33,7 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 
 <a name="Manifold_Optimization" />
 
-## Manifold Optimization
+### Manifold Optimization
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, MP [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
 - [2022] Fast and Accurate Optimization on the Orthogonal Manifold Without Retraction, ICAIS [[paper](https://proceedings.mlr.press/v151/ablin22a)]
 - [2022] CDOpt: A Python Package for A Class of Riemannian Optimization, arXiv [[paper](https://arxiv.org/abs/2212.02698)]
@@ -54,7 +54,7 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 
 <a name="Distributed_Optimization" />
 
-## Distributed Optimization
+### Distributed Optimization
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
