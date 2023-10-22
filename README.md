@@ -1,7 +1,6 @@
-# Statistical Machine Learning
+# Distributed Sparse Optimization
 
-We focus on nonconvex nonsmooth optimization problems in statistical machine learning, including 
-- [Optmization](#Optmization)
+We now focus on nonconvex nonsmooth optimization problems in statistical machine learning, including 
   - [Sparse Optimization](#Sparse_Optimization)
   - [Manifold Optimization](#Manifold_Optimization)
   - [Distributed Optimization](#Distributed_Optimization)
@@ -10,15 +9,12 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
   - [LDA](#LDA)
   - [CCA](#CCA)
 
-<strong> Last Update: October, 2023 </strong>
+<strong> Last Update: October 22, 2023 </strong>
 
-<a name="Optmization" />
-
-## Optmization
 
 <a name="Sparse_Optimization" />
 
-### Sparse Optimization
+## Sparse Optimization
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, ACHA [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
 - [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, MP [[paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
 - [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, JMLR [[paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[code](https://github.com/ShenglongZhou/NHTP)]
@@ -33,7 +29,7 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 
 <a name="Manifold_Optimization" />
 
-### Manifold Optimization
+## Manifold Optimization
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, MP [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
 - [2022] Fast and Accurate Optimization on the Orthogonal Manifold Without Retraction, ICAIS [[paper](https://proceedings.mlr.press/v151/ablin22a)]
 - [2022] CDOpt: A Python Package for A Class of Riemannian Optimization, arXiv [[paper](https://arxiv.org/abs/2212.02698)]
@@ -54,7 +50,7 @@ We focus on nonconvex nonsmooth optimization problems in statistical machine lea
 
 <a name="Distributed_Optimization" />
 
-### Distributed Optimization
+## Distributed Optimization
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
