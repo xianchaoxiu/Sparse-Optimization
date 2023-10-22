@@ -8,7 +8,8 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
   - [PCA](#PCA)
   - [LDA](#LDA)
   - [CCA](#CCA)
-
+- [Journals](#Journals)
+  
 <strong> Last Update: October 22, 2023 </strong>
 
 
@@ -126,4 +127,15 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2015] Tensor Canonical Correlation Analysis for Multi-View Dimension Reduction, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/7123622)]  [[code](https://github.com/rciszek/mdr_tcca)]
 - [2013] Deep Canonical Correlation Analysis, ICML  [[paper](https://proceedings.mlr.press/v28/andrew13.html)] [[code](https://github.com/Michaelvll/DeepCCA)]
 - [2009] Canonical Correlation Analysis of Video Volume Tensors for Action Categorization and Detection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/4547427)]  
-- [2007] Tensor Canonical Correlation Analysis for Action Classification, CVPR [[paper](https://ieeexplore.ieee.org/abstract/document/4270162)] 
+- [2007] Tensor Canonical Correlation Analysis for Action Classification, CVPR [[paper](https://ieeexplore.ieee.org/abstract/document/4270162)]
+
+
+<a name="Journals" />
+
+## Journals
+- IEEE Transactions on Pattern Analysis and Machine Intelligence  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
+- IEEE Transactions on Signal Processing [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
+- IEEE Transactions on Neural Networks and Learning Systems  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
+- IEEE Transactions on Automatic Control  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
+- IEEE Journal of Selected Topics in Signal Processing  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)]
+- IEEE Signal Processing Letters [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)]
