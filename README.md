@@ -136,6 +136,6 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 - IEEE Transactions on Neural Networks and Learning Systems  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
 - IEEE Journal of Selected Topics in Signal Processing  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)]
-- IEEE Transactions on Signal Processing [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
 - IEEE Transactions on Automatic Control  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
+- IEEE Transactions on Signal Processing [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
 - IEEE Signal Processing Letters [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)]
