@@ -1,4 +1,4 @@
-# Distributed Sparse Optimization
+# Statistical Optimization
 
 We now focus on nonconvex nonsmooth optimization problems in statistical machine learning, including 
   - [Sparse Optimization](#Sparse_Optimization)
