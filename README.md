@@ -5,9 +5,9 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
   - [Manifold Optimization](#Manifold_Optimization)
   - [Distributed Optimization](#Distributed_Optimization)
 - [Applications](#Applications)
-  - [PCA](#PCA)
-  - [LDA](#LDA)
-  - [CCA](#CCA)
+  - [Sparse PCA](#Sparse_PCA)
+  - [Rbust LDA](#Rbust_LDA)
+  - [Tensor_CCA](#Tensor_CCA)
 - [Journals](#Journals)
   
 <strong> Last Update: October 22, 2023 </strong>
@@ -73,9 +73,9 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 
 ## Applications
 
-<a name="PCA" />
+<a name="Sparse_PCA" />
 
-### PCA
+### Sparse PCA 
 - [2023] Sparse PCA via l2,p-Norm Regularization for Unsupervised Feature Selection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9580680)] [[code](https://github.com/quiter2005/algorithm)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[code](https://github.com/icety3/FSPCA)]
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
@@ -90,9 +90,9 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2018] A Selective Overview of Sparse Principal Component Analysis, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/8412518)]
 
 
-<a name="LDA" />
+<a name="Robust_LDA" />
 
-### LDA
+### Robust LDA
 - [2023] Self-Weighted Unsupervised LDA, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9524457)] 
 - [2023] Fisher's Linear Discriminant Analysis With Space-Folding Operations, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10005006)] 
 - [2023] Linear Discriminant Analysis With Generalized Kernel Constraint for Robust Image Classification, PR [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006756)]
@@ -105,9 +105,9 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2019] Multi-View Linear Discriminant Analysis Network, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8704986)] [[code](https://github.com/penghu-cs/MvLDAN)]
 - [2016] Sparse Uncorrelated Linear Discriminant Analysis for Undersampled Problems, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/7160770)] 
 
-<a name="CCA" />
+<a name="Tensor_CCA" />
 
-### CCA
+### Tensor CCA
 - [2023] Discriminative Deep Generalized Dependency Analysis for Multi-View Data, IEEE TAI [[paper](https://ieeexplore.ieee.org/abstract/document/10225322)] 
 - [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[code](https://github.com/XiaoFuLab/federated_max_var_gcca)]
 - [2023] Tensor Generalized Canonical Correlation Analysis, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523003615)] 
@@ -133,6 +133,9 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 <a name="Journals" />
 
 ## Journals
+- Mathematical Programming [[link](https://www.springer.com/journal/10107/)]
+- SIAM Journal on Optimization [[link](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt)]
+- Mathematics of Operations Research [[link](http://mor.journal.informs.org/)]
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 - IEEE Transactions on Neural Networks and Learning Systems  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
 - IEEE Journal of Selected Topics in Signal Processing  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)]
