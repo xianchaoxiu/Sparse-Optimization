@@ -2,10 +2,9 @@
 
 We now focus on nonconvex nonsmooth optimization problems involving l0 norm, including
 - [Surveys](#Surveys)
-- [Regularized Optimization](#Sparse_Regularized_Optimization)
-- [Constrained Optimization](#Sparse_Constrained_Optimization)
-- [Structured Optimization](#Structured_Sparse_Optimization)
-- [Manifold Optimization](#Manifold_Optimization)
+- [Sparse Regularized Optimization](#Sparse_Regularized_Optimization)
+- [Sparse Constrained Optimization](#Sparse_Constrained_Optimization)
+- [Structured Sparse Optimization](#Structured_Sparse_Optimization)
 - [Journals](#Journals)
   
 <strong> Last Update: October 23, 2023 </strong>
@@ -25,9 +24,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
 
 
-<a name="Regularized_Optimization" />
+<a name="Sparse_Regularized_Optimization" />
 
-## Regularized Optimization
+## Sparse Regularized Optimization
 ### First-Order Methods 
 - [2020] An active set Barzilar-Borwein algorithm for l0 regularized optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
 - [2018] Proximal mapping for symmetric penalty and sparsity, SIAM Journal on Optimization  [[paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
@@ -46,7 +45,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2015] A primal dual active set with continuation algorithm for the l0-regularized optimization problem, Applied and Computational Harmonic Analysis  [[paper](https://www.sciencedirect.com/science/article/pii/S1063520314001250)]
 - [2013] A variational approach to sparsity optimization based on lagrange multiplier theory, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/30/1/015001/meta)]
 
-<a name="Constrained_Optimization" />
+<a name="Sparse_Constrained_Optimization" />
 
 ## Sparse Constrained Optimization
 ### First-Order Methods 
@@ -72,7 +71,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2017] Fast Newton hard thresholding pursuit for sparsity constrained non-convex optimization, KDD [[paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098165)]
 - [2013] Greedy Sparsity-Constrained Optimization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
 
-<a name="Structured_Optimization" />
+<a name="Structured_Sparse_Optimization" />
 
 ## Structured Sparse Optimization  
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
