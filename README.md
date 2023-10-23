@@ -31,6 +31,26 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 
   
 ### First-Order Methods
+- [2009] Iterative hard thresholding for compressed sensing, Applied and Computational Harmonic Analysis 
+- [2013] Sparse approximation via penalty decomposition methods [J]. SIAM Journal
+on Optimization,
+Lu Z. Iterative hard thresholding methods for `0 regularized convex cone programming [J].
+Mathematical Programming, 2014, 147(1): 125-154.
+
+Blanchard J D, Tanner J, Wei K. CGIHT: conjugate gradient iterative hard thresholding for
+compressed sensing and matrix completion [J]. Information and Inference, 2015, 4(4): 289-327.
+
+[129] Bao C, Dong B, Hou L, et al. Image restoration by minimizing zero norm of wavelet frame
+coecients [J]. Inverse Problems, 2016, 32(11): 115004.
+
+Cheng W Y, Chen Z X, Hu Q J. An active set Barzilar-Borwein algorithm for `0 regularized
+optimization [J]. Journal of Global Optimization, 2020, 76(4): 769-791.
+[132] Soussen C, Idier J, Duan J, et al. Homotopy based algorithms for `0-regularized least-squares
+[J]. IEEE Transactions on Signal Processing, 2015, 63(13): 3301-3316.
+
+Beck A, Hallak N. Proximal mapping for symmetric penalty and sparsity [J]. SIAM Journal
+on Optimization, 2018, 28(1): 496-527.
+
 
 ### Second-Order Methods
 
