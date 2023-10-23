@@ -69,6 +69,9 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2013] Greedy Sparsity-Constrained Optimization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
 
 
+### Structured Sparse Optimization  
+
+
 <a name="Manifold_Optimization" />
 
 ## Manifold Optimization
