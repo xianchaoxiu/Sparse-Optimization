@@ -100,4 +100,3 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - Mathematical Programming [[link](https://www.springer.com/journal/10107/)]
 - SIAM Journal on Optimization [[link](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt)]
 - Mathematics of Operations Research [[link](http://mor.journal.informs.org/)]
-centIssue.jsp?punumber=78)]
