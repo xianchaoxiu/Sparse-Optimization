@@ -30,29 +30,37 @@
 
 
   
-### First-Order Methods
-- [2009] Iterative hard thresholding for compressed sensing, Applied and Computational Harmonic Analysis 
-- [2013] Sparse approximation via penalty decomposition methods [J]. SIAM Journal
-on Optimization,
-Lu Z. Iterative hard thresholding methods for `0 regularized convex cone programming [J].
-Mathematical Programming, 2014, 147(1): 125-154.
+### First-Order Methods with Sparse Regularization
+- [2020] An active set Barzilar-Borwein algorithm for l0 regularized optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
+- [2018] Proximal mapping for symmetric penalty and sparsity, SIAM Journal on Optimization  [[paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
+- [2016] Image restoration by minimizing zero norm of wavelet frame coefficients, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/32/11/115004/meta)]
+- [2015] Homotopy Based Algorithms for l0-Regularized Least-Squares, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/7084156)]
+- [2015] CGIHT: conjugate gradient iterative hard thresholding for compressed sensing and matrix completion, Information and Inference [[paper](https://ieeexplore.ieee.org/abstract/document/8189185)]
+- [2014] Iterative hard thresholding methods for l0 regularized convex cone programming, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-013-0714-4)]
+- [2013] Sparse approximation via penalty decomposition methods, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/100808071)]
+- [2009] Iterative hard thresholding for compressed sensing, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520309000384)]
+- [2007] Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/4385788)]
 
-Blanchard J D, Tanner J, Wei K. CGIHT: conjugate gradient iterative hard thresholding for
-compressed sensing and matrix completion [J]. Information and Inference, 2015, 4(4): 289-327.
+### First-Order Methods with Sparse Constraint
 
-[129] Bao C, Dong B, Hou L, et al. Image restoration by minimizing zero norm of wavelet frame
-coecients [J]. Inverse Problems, 2016, 32(11): 115004.
+- [2017] Gradient Hard Thresholding Pursuit, JMLR [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
+- [2013] Greedy Sparsity-Constrained Optimization, JMLR [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
+- [2012] Accelerated Iterative Hard Thresholding, SP [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003197)]
+- [2011] Hard Thresholding Pursuit: An Algorithm for Compressive Sensing, SINUM [[paper](https://epubs.siam.org/doi/abs/10.1137/100806278)] 
+- [2010] Normalized Iterative Hard Thresholding: Guaranteed Stability and Performance, IEEE JSTSP [[paper](https://ieeexplore.ieee.org/abstract/document/5419091)] 
+- [2010] CoSaMP: Iterative Signal Recovery from Incomplete and Inaccurate Samples, ACHA [[paper](https://www.sciencedirect.com/science/article/pii/S1063520308000638)]   [[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery)]
 
-Cheng W Y, Chen Z X, Hu Q J. An active set Barzilar-Borwein algorithm for `0 regularized
-optimization [J]. Journal of Global Optimization, 2020, 76(4): 769-791.
-[132] Soussen C, Idier J, Duan J, et al. Homotopy based algorithms for `0-regularized least-squares
-[J]. IEEE Transactions on Signal Processing, 2015, 63(13): 3301-3316.
+- 
+### Second-Order Methods with Sparse Regularization
+[2023] Revisiting Lq (0<=q<1) norm regularized optimization, ArXiv [[paper](https://arxiv.org/abs/2306.14394)]
+[2022] Newton method for L0-regularized optimization, Numerical Algorithms [[paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)]
+[2018] A constructive approach to l0 penalized regression, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume19/17-194/17-194.pdf)]
+[2015] A primal dual active set with continuation algorithm for the l0-regularized optimization problem, Applied and Computational Harmonic Analysis  [[paper](https://www.sciencedirect.com/science/article/pii/S1063520314001250)]
+[2013] A variational approach to sparsity optimization based on lagrange multiplier theory, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/30/1/015001/meta)]
 
-Beck A, Hallak N. Proximal mapping for symmetric penalty and sparsity [J]. SIAM Journal
-on Optimization, 2018, 28(1): 496-527.
 
 
-### Second-Order Methods
+### Second-Order Methods with Sparse Constraint
 
 
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, ACHA [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
@@ -61,12 +69,8 @@ on Optimization, 2018, 28(1): 496-527.
 - [2021] Newton Method for L0-Regularized Optimization, NA [[paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)] [[code](https://github.com/ShenglongZhou/NL0R)]
 
 - [2017] Newton-Type Greedy Selection Methods for l0-Constrained Minimization, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/7814339)]
-- [2017] Gradient Hard Thresholding Pursuit, JMLR [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
-- [2013] Greedy Sparsity-Constrained Optimization, JMLR [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
-- [2012] Accelerated Iterative Hard Thresholding, SP [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003197)]
-- [2011] Hard Thresholding Pursuit: An Algorithm for Compressive Sensing, SINUM [[paper](https://epubs.siam.org/doi/abs/10.1137/100806278)] 
-- [2010] Normalized Iterative Hard Thresholding: Guaranteed Stability and Performance, IEEE JSTSP [[paper](https://ieeexplore.ieee.org/abstract/document/5419091)] 
-- [2010] CoSaMP: Iterative Signal Recovery from Incomplete and Inaccurate Samples, ACHA [[paper](https://www.sciencedirect.com/science/article/pii/S1063520308000638)]   [[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery)]
+
+
 
 <a name="Manifold_Optimization" />
 
