@@ -16,10 +16,12 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 <a name="Sparse_Optimization" />
 
 ## Sparse Optimization
+- [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, ACHA [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
 - [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, MP [[paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
 - [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, JMLR [[paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[code](https://github.com/ShenglongZhou/NHTP)]
 - [2021] Newton Method for L0-Regularized Optimization, NA [[paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)] [[code](https://github.com/ShenglongZhou/NL0R)]
+- [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
 - [2017] Newton-Type Greedy Selection Methods for l0-Constrained Minimization, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/7814339)]
 - [2017] Gradient Hard Thresholding Pursuit, JMLR [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
 - [2013] Greedy Sparsity-Constrained Optimization, JMLR [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
