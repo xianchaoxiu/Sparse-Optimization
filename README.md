@@ -2,9 +2,9 @@
 
 We now focus on nonconvex nonsmooth optimization problems involving l0 norm, including
 - [Surveys](#Surveys)
-- [Sparse Regularized Optimization](#Sparse_Regularized_Optimization)
-- [Sparse Constrained Optimization](#Sparse_Constrained_Optimization)
-- [Sparse Structured Optimization](#Sparse_Structured_Optimization)
+- [Regularized Optimization](#Regularized_Optimization)
+- [Constrained Optimization](#Constrained_Optimization)
+- [Structured Optimization](#Structured_Optimization)
 - [Journals](#Journals)
   
 <strong> Last Update: October 23, 2023 </strong>
@@ -24,9 +24,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
 
 
-<a name="Sparse_Regularized_Optimization" />
+<a name="Regularized_Optimization" />
 
-## Sparse Regularized Optimization
+## Regularized Optimization
 
 ### First-Order Methods 
 - [2020] An Active Set Barzilar-Borwein Algorithm for l0 Regularized Optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
@@ -47,9 +47,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2015] A Primal Dual Active Set with Continuation Algorithm for the l0-Regularized Optimization Problem, Applied and Computational Harmonic Analysis  [[paper](https://www.sciencedirect.com/science/article/pii/S1063520314001250)]
 - [2013] A Variational Approach to Sparsity Optimization Based on Lagrange Multiplier Theory, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/30/1/015001/meta)]
 
-<a name="Sparse_Constrained_Optimization" />
+<a name="Constrained_Optimization" />
 
-## Sparse Constrained Optimization
+## Constrained Optimization
 
 ### First-Order Methods 
 - [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
@@ -78,9 +78,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 
 
 
-<a name="Sparse_Structured_Optimization" />
+<a name="Structured_Optimization" />
 
-## Sparse Structured Optimization  
+## Structured Optimization  
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
