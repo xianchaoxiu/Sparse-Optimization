@@ -1,6 +1,6 @@
-# Statistical Optimization
+# Sparse Optimization
 
-We now focus on nonconvex nonsmooth optimization problems in statistical machine learning, including
+We now focus on nonconvex nonsmooth optimization problems involving l0 norm, including
   - [Sparse Optimization](#Sparse_Optimization)
     - [Surveys](#Surveys)
     - [Sparse Regularized Optimization](#Sparse_Regularized_Optimization)
