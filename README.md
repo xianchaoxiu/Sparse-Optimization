@@ -44,7 +44,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2007] Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/4385788)]
 
 ### Second-Order Methods
-- [2023] Revisiting Lq (0<=q<1) norm regularized optimization, ArXiv [[paper](https://arxiv.org/abs/2306.14394)]
+- [2023] Revisiting Lq (0<=q<1) norm regularized optimization, ArXiv [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
 - [2022] Newton method for L0-regularized optimization, Numerical Algorithms [[paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)] [[code](https://github.com/ShenglongZhou/NL0R)]
 - [2018] A constructive approach to l0 penalized regression, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume19/17-194/17-194.pdf)]
 - [2015] A primal dual active set with continuation algorithm for the l0-regularized optimization problem, Applied and Computational Harmonic Analysis  [[paper](https://www.sciencedirect.com/science/article/pii/S1063520314001250)]
