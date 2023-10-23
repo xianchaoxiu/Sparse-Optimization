@@ -2,6 +2,10 @@
 
 We now focus on nonconvex nonsmooth optimization problems in statistical machine learning, including
   - [Sparse Optimization](#Sparse_Optimization)
+    - [Surveys](#Surveys)
+    - [Sparse Regularized Optimization](#Sparse_Regularized_Optimization)
+    - [Sparse Constrained Optimization](#Sparse_Constrained_Optimization)
+    - [Structured Sparse Optimization](#Structured_Sparse_Optimization)
   - [Manifold Optimization](#Manifold_Optimization)
   - [Distributed Optimization](#Distributed_Optimization)
 - [Applications](#Applications)
@@ -17,6 +21,8 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 
 ## Sparse Optimization
 
+<a name="Surveys" />
+
 ### Surveys
 - [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
 - [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
@@ -26,8 +32,11 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[paper](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
 - [2012] 压缩感知, 中国科学 [[paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
-  
-### Sparse Regularization
+
+
+<a name="Sparse_Regularized_Optimization" />
+
+### Sparse Regularized Optimization
 #### First-Order Methods 
 - [2020] An active set Barzilar-Borwein algorithm for l0 regularized optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
 - [2018] Proximal mapping for symmetric penalty and sparsity, SIAM Journal on Optimization  [[paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
@@ -46,7 +55,10 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2015] A primal dual active set with continuation algorithm for the l0-regularized optimization problem, Applied and Computational Harmonic Analysis  [[paper](https://www.sciencedirect.com/science/article/pii/S1063520314001250)]
 - [2013] A variational approach to sparsity optimization based on lagrange multiplier theory, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/30/1/015001/meta)]
 
-### First-Order Methods with Sparse Constraint
+<a name="Sparse_Constrained_Optimization" />
+
+### Sparse Constrained Optimization
+#### First-Order Methods 
 - [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
 - [2017] A convergent iterative hard thresholding for nonnegative sparsity optimization, Pacific Journal of Optimization  [[paper](http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html)] [[code](https://github.com/ShenglongZhou/IIHT)]
 - [2016] On the minimization over sparse symmetric sets: projections, optimality conditions, and algorithms, Mathematics of Operations Research [[paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0722)] 
@@ -60,7 +72,7 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2007] Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems, IEEE JSTSP [[paper](https://ieeexplore.ieee.org/abstract/document/4407762)]
 
   
-### Second-Order Methods with Sparse Constraint
+#### Second-Order Methods
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
 - [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
 - [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[code](https://github.com/ShenglongZhou/NHTP)]
@@ -69,6 +81,7 @@ We now focus on nonconvex nonsmooth optimization problems in statistical machine
 - [2017] Fast Newton hard thresholding pursuit for sparsity constrained non-convex optimization, KDD [[paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098165)]
 - [2013] Greedy Sparsity-Constrained Optimization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
 
+<a name="Structured_Sparse_Optimization" />
 
 ### Structured Sparse Optimization  
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
