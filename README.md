@@ -1,6 +1,6 @@
 # Statistical Optimization
 
-We now focus on nonconvex nonsmooth optimization problems in statistical machine learning, including 
+`We now focus on nonconvex nonsmooth optimization problems in statistical machine learning, including`
   - [Sparse Optimization](#Sparse_Optimization)
   - [Manifold Optimization](#Manifold_Optimization)
   - [Distributed Optimization](#Distributed_Optimization)
