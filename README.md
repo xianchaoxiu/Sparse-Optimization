@@ -26,9 +26,6 @@
 - [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[paper](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
 - [2012] 压缩感知, 中国科学 [[paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
-
-
-
   
 ### First-Order Methods with Sparse Regularization
 - [2020] An active set Barzilar-Borwein algorithm for l0 regularized optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
@@ -42,7 +39,6 @@
 - [2007] Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/4385788)]
 
 ### First-Order Methods with Sparse Constraint
-
 - [2017] Gradient Hard Thresholding Pursuit, JMLR [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
 - [2013] Greedy Sparsity-Constrained Optimization, JMLR [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
 - [2012] Accelerated Iterative Hard Thresholding, SP [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003197)]
