@@ -125,7 +125,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2023] Self-Weighted Unsupervised LDA, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9524457)] 
 - [2023] Fisher's Linear Discriminant Analysis With Space-Folding Operations, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10005006)] 
 - [2023] Linear Discriminant Analysis With Generalized Kernel Constraint for Robust Image Classification, Pattern Recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006756)]
-- [2022] Neighborhood Linear Discriminant Analysis, PR [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005987)]
+- [2022] Neighborhood Linear Discriminant Analysis, Pattern Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005987)]
 - [2021] Unsupervised Linear Discriminant Analysis for Jointly Clustering and Subspace Learning, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/8823955)]
 - [2021] Large-Dimensional Characterization of Robust Linear Discriminant Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9415133)]
 - [2020] Self-weighted Robust LDA for Multiclass Classification with Edge Classes, ACM TIST [[paper](https://dl.acm.org/doi/abs/10.1145/3418284)]
