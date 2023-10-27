@@ -17,10 +17,10 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 ### Surveys
 - [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
 - [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
-- [2020] Statistical Foundations of Data Science, CRC Press  [[paper](https://www.taylorfrancis.com/books/mono/10.1201/9780429096280/statistical-foundations-data-science-jianqing-fan-runze-li-cun-hui-zhang-hui-zou)]
-- [2018] Sparse Optimization Theory and Methods, CRC Press [[paper](https://www.taylorfrancis.com/books/mono/10.1201/9781315113142/sparse-optimization-theory-methods-yun-bin-zhao)]
-- [2015] Statistical Learning with sparsity: The Lasso and Generalizations, CRC Press [[paper](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)]
-- [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[paper](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
+- [2020] Statistical Foundations of Data Science, CRC Press  [[book](https://www.taylorfrancis.com/books/mono/10.1201/9780429096280/statistical-foundations-data-science-jianqing-fan-runze-li-cun-hui-zhang-hui-zou)]
+- [2018] Sparse Optimization Theory and Methods, CRC Press [[book](https://www.taylorfrancis.com/books/mono/10.1201/9781315113142/sparse-optimization-theory-methods-yun-bin-zhao)]
+- [2015] Statistical Learning with sparsity: The Lasso and Generalizations, CRC Press [[book](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)]
+- [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[book](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
 - [2012] 压缩感知, 中国科学 [[paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
 
