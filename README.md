@@ -1,6 +1,6 @@
 # Sparse Optimization
 
-We now focus on nonconvex nonsmooth optimization problems involving l0 norm, including
+We now focus on nonconvex nonsmooth optimization problems involving l0 norm.
 - [Surveys](#Surveys)
 - [Regularized Methods](#Regularized_Methods)
 - [Constrained Methods](#Constrained_Methods)
