@@ -2,9 +2,9 @@
 
 We now focus on nonconvex nonsmooth optimization problems involving l0 norm instead of convex/nonconvex surrogates.
 - [Surveys](#Surveys)
-- [Regularized Methods](#Regularized_Methods)
-- [Constrained Methods](#Constrained_Methods)
-- [Structured Sparsity](#Structured_Sparsity)
+- [Regularized Models](#Regularized_Models)
+- [Constrained Models](#Constrained_Models)
+- [Structured Models](#Structured_Models)
 - [Applications](#Applications)
 - [Journals](#Journals)
   
@@ -25,11 +25,11 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
 
 
-<a name="Regularized_Methods" />
+<a name="Regularized_Models" />
 
-## Regularized Methods
+## Regularized Models
 
-### First-Order Algorithms
+### First-Order Methods
 - [2020] An Active Set Barzilar-Borwein Algorithm for l0 Regularized Optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
 - [2020] A Smoothing Proximal Gradient Algorithm for Nonsmooth Convex Regression with Cardinality Penalty, SIAM Journal on Numerical Analysis [[paper](https://epubs.siam.org/doi/abs/10.1137/18M1186009)]
 - [2018] Proximal Mapping for Symmetric Penalty and Sparsity, SIAM Journal on Optimization  [[paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
@@ -41,7 +41,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2009] Iterative Hard Thresholding for Compressed Sensing, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520309000384)]
 
 
-### Second-Order Algorithms
+### Second-Order Methods
 - [2023] Revisiting Lq (0<=q<1) Norm Regularized Optimization, ArXiv [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
 - [2022] Newton Method for L0-Regularized Optimization, Numerical Algorithms [[paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)] [[code](https://github.com/ShenglongZhou/NL0R)]
 - [2018] A Constructive Approach to l0 Penalized Regression, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume19/17-194/17-194.pdf)]
@@ -50,11 +50,11 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Constrained_Methods" />
+<a name="Constrained_Models" />
 
-## Constrained Methods
+## Constrained Models
 
-### First-Order Algorithms
+### First-Order Methods
 - [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
 - [2017] A Convergent Iterative Hard Thresholding for Nonnegative Sparsity Optimization, Pacific Journal of Optimization  [[paper](http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html)] [[code](https://github.com/ShenglongZhou/IIHT)]
 - [2016] On the Minimization over Sparse Symmetric Sets: Projections, Optimality Conditions, and Algorithms, Mathematics of Operations Research [[paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0722)] 
@@ -70,7 +70,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [1993] Orthogonal Matching Pursuit: Recursive Function Approximation with Applications to Wavelet Decomposition, ACSSC  [[paper](https://ieeexplore.ieee.org/abstract/document/342465)]
 
   
-### Second-Order Algorithms
+### Second-Order Methods
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
 - [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
 - [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[code](https://github.com/ShenglongZhou/NHTP)]
@@ -81,9 +81,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Structured_Sparsity" />
+<a name="Structured_Models" />
 
-## Structured Sparsity  
+## Structured Models 
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
