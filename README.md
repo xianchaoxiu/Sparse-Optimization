@@ -2,9 +2,9 @@
 
 We now focus on nonconvex nonsmooth optimization problems involving l0 norm instead of convex/nonconvex surrogates.
 - [Surveys](#Surveys)
-- [Regularized Optimization](#Regularized_Optimization)
-- [Constrained Optimization](#Constrained_Optimization)
-- [Learning Optimization](#Learning_Optimization)
+- [Regularized Methods](#Regularized_Methods)
+- [Constrained Methods](#Constrained_Methods)
+- [Learning Methods](#Learning_Methods)
 - [Applications](#Applications)
 - [Journals](#Journals)
   
@@ -30,9 +30,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2011] Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, Foundations and Trends in Machine Learning  [[paper](https://www.nowpublishers.com/article/Details/MAL-016)]
 
   
-<a name="Regularized_Optimization" />
+<a name="Regularized_Methods" />
 
-## Regularized Optimization
+## Regularized Methods
 
 ### First-Order Algorithms
 - [2020] An Active Set Barzilar-Borwein Algorithm for l0 Regularized Optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
@@ -55,9 +55,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Constrained_Optimization" />
+<a name="Constrained_Methods" />
 
-## Constrained Optimization
+## Constrained Methods
 
 ### First-Order Algorithms
 - [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
@@ -86,9 +86,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Learning_Optimization" />
+<a name="Learning_Methods" />
 
-## Learning Optimization
+## Learning Methods
 - [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 - [2023] Model-Based Deep Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10056957)] 
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[code](https://github.com/VITA-Group/Open-L2O)]
@@ -104,6 +104,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
+<a name="Applications" />
 
 ## Applications
 - [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9893402)] [[code](https://github.com/wenwenmin/SSNMF)]
