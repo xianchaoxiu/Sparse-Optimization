@@ -4,7 +4,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [Surveys](#Surveys)
 - [Regularized Optimization](#Regularized_Optimization)
 - [Constrained Optimization](#Constrained_Optimization)
-- [Deep Learning](#Deep_Learning)
+- [Learning Optimization](#Learning_Optimization)
 - [Applications](#Applications)
 - [Journals](#Journals)
   
@@ -86,9 +86,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Deep_Learning" />
+<a name="Learning_Optimization" />
 
-## Deep Learning
+## Learning Optimization
 - [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 - [2023] Model-Based Deep Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10056957)] 
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[code](https://github.com/VITA-Group/Open-L2O)]
