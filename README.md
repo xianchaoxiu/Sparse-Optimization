@@ -2,9 +2,9 @@
 
 We now focus on nonconvex nonsmooth optimization problems involving l0 norm instead of convex/nonconvex surrogates.
 - [Surveys](#Surveys)
-- [Regularized Models](#Regularized_Models)
-- [Constrained Models](#Constrained_Models)
-- [Structured Models](#Structured_Models)
+- [Regularized Optimization](#Regularized_Optimization)
+- [Constrained Optimization](#Constrained_Optimization)
+- [Structured Optimization](#Structured_Optimization)
 - [Applications](#Applications)
 - [Journals](#Journals)
   
@@ -25,9 +25,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
 
 
-<a name="Regularized_Models" />
+<a name="Regularized_Optimization" />
 
-## Regularized Models
+## Regularized Optimization
 
 ### First-Order Algorithms
 - [2020] An Active Set Barzilar-Borwein Algorithm for l0 Regularized Optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
@@ -50,9 +50,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Constrained_Models" />
+<a name="Constrained_Optimization" />
 
-## Constrained Models
+## Constrained Optimization
 
 ### First-Order Algorithms
 - [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
@@ -81,9 +81,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Structured_Models" />
+<a name="Structured_Optimization" />
 
-## Structured Models 
+## Structured Optimization 
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
