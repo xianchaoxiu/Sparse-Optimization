@@ -93,7 +93,8 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 ## Learning Methods
 - [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
-- [2023] Model-Based Deep Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10056957)] 
+- [2023] Model-Based Deep Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
+- [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, JMLR [[paper](https://jmlr.org/papers/v23/20-1297.html)] [[code](https://github.com/Vandermode/TFPnP)]
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[code](https://github.com/VITA-Group/Open-L2O)]
 - [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[paper](https://ieeexplore.ieee.org/abstract/document/9363511)] 
 - [2020] On the Convergence of Learning-Based Iterative Methods for Nonconvex Inverse Problemss, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/8727950)] [[code](https://github.com/Heyi007/FIMAt)]
