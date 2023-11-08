@@ -37,15 +37,16 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 ## Regularized Methods
 
 ### First-Order Algorithms
-- [2020] An Active Set Barzilar-Borwein Algorithm for l0 Regularized Optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
+- [2020] An Active Set Barzilar-Borwein Algorithm for L0 Regularized Optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
 - [2020] A Smoothing Proximal Gradient Algorithm for Nonsmooth Convex Regression with Cardinality Penalty, SIAM Journal on Numerical Analysis [[paper](https://epubs.siam.org/doi/abs/10.1137/18M1186009)]
 - [2018] Proximal Mapping for Symmetric Penalty and Sparsity, SIAM Journal on Optimization  [[paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
 - [2016] Image Restoration by Minimizing Zero Norm of Wavelet Frame Coefficients, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/32/11/115004/meta)]
-- [2015] Homotopy Based Algorithms for l0-Regularized Least-Squares, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/7084156)]
+- [2015] Homotopy Based Algorithms for L0-Regularized Least-Squares, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/7084156)]
 - [2015] CGIHT: Conjugate Gradient Iterative Hard Thresholding for Compressed Sensing and Matrix Completion, Information and Inference [[paper](https://ieeexplore.ieee.org/abstract/document/8189185)]
-- [2014] Iterative Hard Thresholding Methods for l0 Regularized Convex Cone Programming, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-013-0714-4)]
+- [2014] Iterative Hard Thresholding Methods for L0 Regularized Convex Cone Programming, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-013-0714-4)]
 - [2013] Sparse Approximation via Penalty Decomposition Methods, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/100808071)]
 - [2009] Iterative Hard Thresholding for Compressed Sensing, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520309000384)]
+
 
 
 ### Second-Order Algorithms
@@ -112,7 +113,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9893402)] [[code](https://github.com/wenwenmin/SSNMF)]
 - [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[code](https://github.com/icety3/FSPCA)]
-- [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
+- [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
 - [2019] Optimization Problems Involving Group Sparsity Terms, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-018-1277-1)]
