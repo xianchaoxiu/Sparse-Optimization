@@ -16,20 +16,20 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 <a name="Surveys" />
 
 ### Surveys
-- [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[code](https://github.com/hazimehh/L0Learn)]
-- [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press  [[book](https://book-wright-ma.github.io/)]
-- [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
-- [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
-- [2020] Statistical Foundations of Data Science, CRC Press  [[book](https://www.taylorfrancis.com/books/mono/10.1201/9780429096280/statistical-foundations-data-science-jianqing-fan-runze-li-cun-hui-zhang-hui-zou)]
-- [2018] Optimization Methods for Large-Scale Machine Learning, SIAM Review  [[paper](https://epubs.siam.org/doi/abs/10.1137/16M1080173)]
-- [2018] Sparse Optimization Theory and Methods, CRC Press [[book](https://www.taylorfrancis.com/books/mono/10.1201/9781315113142/sparse-optimization-theory-methods-yun-bin-zhao)]
-- [2017] Non-convex Optimization for Machine Learning, Foundations and Trends in Machine Learning  [[paper](https://www.nowpublishers.com/article/Details/MAL-058)]
+- [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[code](https://github.com/hazimehh/L0Learn)]
+- [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press  [[Book](https://book-wright-ma.github.io/)]
+- [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[Paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
+- [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[Paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
+- [2020] Statistical Foundations of Data Science, CRC Press  [[Book](https://www.taylorfrancis.com/books/mono/10.1201/9780429096280/statistical-foundations-data-science-jianqing-fan-runze-li-cun-hui-zhang-hui-zou)]
+- [2018] Optimization Methods for Large-Scale Machine Learning, SIAM Review  [[Paper](https://epubs.siam.org/doi/abs/10.1137/16M1080173)]
+- [2018] Sparse Optimization Theory and Methods, CRC Press [[Book](https://www.taylorfrancis.com/books/mono/10.1201/9781315113142/sparse-optimization-theory-methods-yun-bin-zhao)]
+- [2017] Non-convex Optimization for Machine Learning, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-058)]
 - [2015] Statistical Learning with sparsity: The Lasso and Generalizations, CRC Press [[book](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)]
-- [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[book](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
-- [2012] 压缩感知, 中国科学 [[paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
-- [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
-- [2012] Online Learning and Online Convex Optimization, Foundations and Trends in Machine Learning  [[paper](https://www.nowpublishers.com/article/Details/MAL-018)]
-- [2011] Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, Foundations and Trends in Machine Learning  [[paper](https://www.nowpublishers.com/article/Details/MAL-016)]
+- [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[Book](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
+- [2012] 压缩感知, 中国科学 [[Paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
+- [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[Paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
+- [2012] Online Learning and Online Convex Optimization, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-018)]
+- [2011] Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-016)]
 
 
 
