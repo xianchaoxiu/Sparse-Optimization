@@ -94,11 +94,15 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 <a name="Learning_Methods" />
 
 ## Learning Methods
+- [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE SPM [[paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
 - [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 - [2023] Model-Based Deep Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
 - [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, JMLR [[paper](https://jmlr.org/papers/v23/20-1297.html)] [[code](https://github.com/Vandermode/TFPnP)]
+- [2023] Solving Inverse Problems With Deep Neural Networks – Robustness Included? IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9705105)]
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[code](https://github.com/VITA-Group/Open-L2O)]
-- [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[paper](https://ieeexplore.ieee.org/abstract/document/9363511)] 
+- [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
+- [2021] Deep K-SVD Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9464674)]
+- [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
 - [2020] On the Convergence of Learning-Based Iterative Methods for Nonconvex Inverse Problemss, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/8727950)] [[code](https://github.com/Heyi007/FIMAt)]
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/cszn/FFDNet)]
 - [2018] ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing, CVPR [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.html)] [[code](https://github.com/jianzhangcs/ISTA-Net-PyTorch)]
@@ -122,6 +126,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 <a name="Applications" />
 
 ## Applications
+
 - [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9893402)] [[code](https://github.com/wenwenmin/SSNMF)]
 - [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[code](https://github.com/icety3/FSPCA)]
