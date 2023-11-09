@@ -5,6 +5,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [Regularized Methods](#Regularized_Methods)
 - [Constrained Methods](#Constrained_Methods)
 - [Learning Methods](#Learning_Methods)
+- [Other Methods](#Other_Methods)
 - [Applications](#Applications)
 - [Journals](#Journals)
   
@@ -15,16 +16,14 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 <a name="Surveys" />
 
 ### Surveys
-- [2023] L0learn: A scalable package for sparse learning using L0 regularization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[code](https://github.com/hazimehh/L0Learn)]
+- [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[code](https://github.com/hazimehh/L0Learn)]
 - [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press  [[book](https://book-wright-ma.github.io/)]
 - [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
 - [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
 - [2020] Statistical Foundations of Data Science, CRC Press  [[book](https://www.taylorfrancis.com/books/mono/10.1201/9780429096280/statistical-foundations-data-science-jianqing-fan-runze-li-cun-hui-zhang-hui-zou)]
 - [2018] Optimization Methods for Large-Scale Machine Learning, SIAM Review  [[paper](https://epubs.siam.org/doi/abs/10.1137/16M1080173)]
 - [2018] Sparse Optimization Theory and Methods, CRC Press [[book](https://www.taylorfrancis.com/books/mono/10.1201/9781315113142/sparse-optimization-theory-methods-yun-bin-zhao)]
-- [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study [[paper](https://ieeexplore.ieee.org/document/7458185)]  [[code](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity)]
 - [2017] Non-convex Optimization for Machine Learning, Foundations and Trends in Machine Learning  [[paper](https://www.nowpublishers.com/article/Details/MAL-058)]
-- [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
 - [2015] Statistical Learning with sparsity: The Lasso and Generalizations, CRC Press [[book](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)]
 - [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[book](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
 - [2012] 压缩感知, 中国科学 [[paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
@@ -107,6 +106,15 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2010] Learning Fast Approximations of Sparse Coding, ICML [[paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[code](https://github.com/minhnhat93/lfa_sc)]
 
 
+
+<a name="Other_Methods" />
+
+## Other Methods
+- [2023] Sparse Plus Low Rank Matrix Decomposition: A Discrete Optimization Approach, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume24/21-1130/21-1130.pdf)] [[code](https://github.com/NicholasJohnson2020/SparseLowRankSoftware)]
+- [2022] Solving large-scale sparse PCA to certifiable (near) optimality, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]  [[code](https://github.com/ryancorywright/ScalableSPCA.jl)]
+- [2022] A Comparative Study of Multi-Objective Optimization Algorithms for Sparse Signal Reconstruction, Artificial Intelligence Review [[paper](https://link.springer.com/article/10.1007/s10462-021-10073-5)]
+- [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study [[paper](https://ieeexplore.ieee.org/document/7458185)]  [[code](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity)]
+- [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
 
 
 <a name="Applications" />
