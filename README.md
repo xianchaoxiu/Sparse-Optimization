@@ -4,7 +4,6 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [Surveys](#Surveys)
 - [Constrained Methods](#Constrained_Methods)
 - [Regularized Methods](#Regularized_Methods)
-- [Learning Methods](#Learning_Methods)
 - [Other Methods](#Other_Methods)
 - [Applications](#Applications)
 - [Journals](#Journals)
@@ -16,7 +15,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 <a name="Surveys" />
 
 ### Surveys
-- [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[code](https://github.com/hazimehh/L0Learn)]
+- [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[R](https://github.com/hazimehh/L0Learn)]
 - [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press  [[Book](https://book-wright-ma.github.io/)]
 - [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[Paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
 - [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[Paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
@@ -39,29 +38,29 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 ## Constrained Methods
 
 ### First-Order Algorithms
-- [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
-- [2017] A Convergent Iterative Hard Thresholding for Nonnegative Sparsity Optimization, Pacific Journal of Optimization  [[paper](http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html)] [[code](https://github.com/ShenglongZhou/IIHT)]
-- [2016] On the Minimization over Sparse Symmetric Sets: Projections, Optimality Conditions, and Algorithms, Mathematics of Operations Research [[paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0722)] 
-- [2015] On Solutions of Sparsity Constrained Optimization, Journal of the Operations Research Society of China [[paper](https://link.springer.com/article/10.1007/s40305-015-0101-3)]
+- [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
+- [2017] A Convergent Iterative Hard Thresholding for Nonnegative Sparsity Optimization, Pacific Journal of Optimization  [[Paper](http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html)] [[Matlab](https://github.com/ShenglongZhou/IIHT)]
+- [2016] On the Minimization over Sparse Symmetric Sets: Projections, Optimality Conditions, and Algorithms, Mathematics of Operations Research [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0722)] 
+- [2015] On Solutions of Sparsity Constrained Optimization, Journal of the Operations Research Society of China [[Paper](https://link.springer.com/article/10.1007/s40305-015-0101-3)]
 - [2013] Greedy Sparsity-Constrained Optimization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
-- [2013] Sparsity Constrained Nonlinear Optimization: Optimality Conditions and Algorithms, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/120869778)]
-- [2012] Accelerated Iterative Hard Thresholding, Signal Processing [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003197)]
-- [2011] Hard Thresholding Pursuit: An Algorithm for Compressive Sensing, SIAM Journal on Numerical Analysis [[paper](https://epubs.siam.org/doi/abs/10.1137/100806278)]
-- [2010] Normalized Iterative Hard Thresholding: Guaranteed Stability and Performance, IEEE JSTSP [[paper](https://ieeexplore.ieee.org/abstract/document/5419091)]
-- [2009] CoSaMP: Iterative Signal Recovery from Incomplete and Inaccurate Samples, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520308000638)] [[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery)]
-- [2007] Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems, IEEE JSTSP [[paper](https://ieeexplore.ieee.org/abstract/document/4407762)]
-- [2007] Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/4385788)]
-- [1993] Orthogonal Matching Pursuit: Recursive Function Approximation with Applications to Wavelet Decomposition, ACSSC  [[paper](https://ieeexplore.ieee.org/abstract/document/342465)]
+- [2013] Sparsity Constrained Nonlinear Optimization: Optimality Conditions and Algorithms, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/120869778)]
+- [2012] Accelerated Iterative Hard Thresholding, Signal Processing [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003197)]
+- [2011] Hard Thresholding Pursuit: An Algorithm for Compressive Sensing, SIAM Journal on Numerical Analysis [[Paper](https://epubs.siam.org/doi/abs/10.1137/100806278)]
+- [2010] Normalized Iterative Hard Thresholding: Guaranteed Stability and Performance, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/5419091)]
+- [2009] CoSaMP: Iterative Signal Recovery from Incomplete and Inaccurate Samples, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520308000638)] [[[Matlab](https://ww2.mathworks.cn/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery)]
+- [2007] Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/4407762)]
+- [2007] Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/4385788)]
+- [1993] Orthogonal Matching Pursuit: Recursive Function Approximation with Applications to Wavelet Decomposition, ACSSC  [[Paper](https://ieeexplore.ieee.org/abstract/document/342465)]
 
   
 ### Second-Order Algorithms
-- [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[code](https://github.com/ShenglongZhou/GPNP)]
-- [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
-- [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, Journal of Machine Learning Research [[paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[code](https://github.com/ShenglongZhou/NHTP)]
-- [2020] Greedy Projected Gradient-Newton Method for Sparse Logistic Regression, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8688642)]
-- [2017] Newton-Type Greedy Selection Methods for l0 -Constrained Minimization, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/7814339)]
-- [2017] Fast Newton Hard Thresholding Pursuit for Sparsity Constrained Non-Convex Optimization, KDD [[paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098165)]
-- [2013] Greedy Sparsity-Constrained Optimization, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
+- [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[[Matlab](https://github.com/ShenglongZhou/GPNP)]
+- [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
+- [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, Journal of Machine Learning Research [[Paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[[Matlab](https://github.com/ShenglongZhou/NHTP)]
+- [2020] Greedy Projected Gradient-Newton Method for Sparse Logistic Regression, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8688642)]
+- [2017] Newton-Type Greedy Selection Methods for l0 -Constrained Minimization, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/7814339)]
+- [2017] Fast Newton Hard Thresholding Pursuit for Sparsity Constrained Non-Convex Optimization, KDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098165)]
+- [2013] Greedy Sparsity-Constrained Optimization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
 
 
 <a name="Regularized_Methods" />
@@ -69,83 +68,74 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 ## Regularized Methods
 
 ### First-Order Algorithms
-- [2020] An Active Set Barzilar-Borwein Algorithm for L0 Regularized Optimization, Journal of Global Optimization [[paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
+- [2020] An Active Set Barzilar-Borwein Algorithm for L0 Regularized Optimization, Journal of Global Optimization [[Paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
 - [2020] A Smoothing Proximal Gradient Algorithm for Nonsmooth Convex Regression with Cardinality Penalty, SIAM Journal on Numerical Analysis [[paper](https://epubs.siam.org/doi/abs/10.1137/18M1186009)]
-- [2018] Proximal Mapping for Symmetric Penalty and Sparsity, SIAM Journal on Optimization  [[paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
-- [2016] Image Restoration by Minimizing Zero Norm of Wavelet Frame Coefficients, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/32/11/115004/meta)]
-- [2015] Homotopy Based Algorithms for L0-Regularized Least-Squares, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/7084156)]
-- [2015] CGIHT: Conjugate Gradient Iterative Hard Thresholding for Compressed Sensing and Matrix Completion, Information and Inference [[paper](https://ieeexplore.ieee.org/abstract/document/8189185)]
-- [2014] Iterative Hard Thresholding Methods for L0 Regularized Convex Cone Programming, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-013-0714-4)]
-- [2013] Sparse Approximation via Penalty Decomposition Methods, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/100808071)]
-- [2009] Iterative Hard Thresholding for Compressed Sensing, Applied and Computational Harmonic Analysis [[paper](https://www.sciencedirect.com/science/article/pii/S1063520309000384)]
+- [2018] Proximal Mapping for Symmetric Penalty and Sparsity, SIAM Journal on Optimization  [[Paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
+- [2016] Image Restoration by Minimizing Zero Norm of Wavelet Frame Coefficients, Inverse Problems [[Paper](https://iopscience.iop.org/article/10.1088/0266-5611/32/11/115004/meta)]
+- [2015] Homotopy Based Algorithms for L0-Regularized Least-Squares, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7084156)]
+- [2015] CGIHT: Conjugate Gradient Iterative Hard Thresholding for Compressed Sensing and Matrix Completion, Information and Inference [[Paper](https://ieeexplore.ieee.org/abstract/document/8189185)]
+- [2014] Iterative Hard Thresholding Methods for L0 Regularized Convex Cone Programming, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-013-0714-4)]
+- [2013] Sparse Approximation via Penalty Decomposition Methods, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/100808071)]
+- [2009] Iterative Hard Thresholding for Compressed Sensing, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520309000384)]
 
 
 
 ### Second-Order Algorithms
-- [2023] Revisiting Lq (0<=q<1) Norm Regularized Optimization, ArXiv [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
-- [2022] Newton Method for L0-Regularized Optimization, Numerical Algorithms [[paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)] [[code](https://github.com/ShenglongZhou/NL0R)]
-- [2018] A Constructive Approach to l0 Penalized Regression, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume19/17-194/17-194.pdf)]
-- [2015] A Primal Dual Active Set with Continuation Algorithm for the l0-Regularized Optimization Problem, Applied and Computational Harmonic Analysis  [[paper](https://www.sciencedirect.com/science/article/pii/S1063520314001250)]
-- [2013] A Variational Approach to Sparsity Optimization Based on Lagrange Multiplier Theory, Inverse Problems [[paper](https://iopscience.iop.org/article/10.1088/0266-5611/30/1/015001/meta)]
-
-
-
-
-<a name="Learning_Methods" />
-
-## Learning Methods
-- [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE SPM [[paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
-- [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
-- [2023] Model-Based Deep Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
-- [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, JMLR [[paper](https://jmlr.org/papers/v23/20-1297.html)] [[code](https://github.com/Vandermode/TFPnP)]
-- [2023] Solving Inverse Problems With Deep Neural Networks – Robustness Included? IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9705105)]
-- [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[code](https://github.com/VITA-Group/Open-L2O)]
-- [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
-- [2021] Deep K-SVD Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9464674)]
-- [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
-- [2020] On the Convergence of Learning-Based Iterative Methods for Nonconvex Inverse Problemss, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/8727950)] [[code](https://github.com/Heyi007/FIMAt)]
-- [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/cszn/FFDNet)]
-- [2018] ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing, CVPR [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.html)] [[code](https://github.com/jianzhangcs/ISTA-Net-PyTorch)]
-- [2018] Theoretical linear convergence of unfolded ISTA and its practical weights and thresholds, NIPS [[paper](https://proceedings.neurips.cc/paper/2018/hash/cf8c9be2a4508a24ae92c9d3d379131d-Abstract.html)] [[code](https://github.com/xchen-tamu/linear-lista-cpss)]
-- [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/1679091c5a880faf6fb5e6087eb1b2dc-Abstract.html)] [[code](https://github.com/yangyan92/Deep-ADMM-Net)]
-- [2015] Learning Efficient Sparse and Low Rank Models, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/7010964)]
-- [2010] Learning Fast Approximations of Sparse Coding, ICML [[paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[code](https://github.com/minhnhat93/lfa_sc)]
+- [2023] Revisiting Lq (0<=q<1) Norm Regularized Optimization, ArXiv [[Paper](https://arxiv.org/abs/2306.14394)] [[Matlab](https://github.com/ShenglongZhou/PSNP)]
+- [2022] Newton Method for L0-Regularized Optimization, Numerical Algorithms [[Paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)] [[Matlab](https://github.com/ShenglongZhou/NL0R)]
+- [2018] A Constructive Approach to l0 Penalized Regression, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume19/17-194/17-194.pdf)]
+- [2015] A Primal Dual Active Set with Continuation Algorithm for the l0-Regularized Optimization Problem, Applied and Computational Harmonic Analysis  [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520314001250)]
+- [2013] A Variational Approach to Sparsity Optimization Based on Lagrange Multiplier Theory, Inverse Problems [[Paper](https://iopscience.iop.org/article/10.1088/0266-5611/30/1/015001/meta)]
 
 
 
 <a name="Other_Methods" />
 
 ## Other Methods
-- [2023] Sparse Plus Low Rank Matrix Decomposition: A Discrete Optimization Approach, Journal of Machine Learning Research [[paper](https://www.jmlr.org/papers/volume24/21-1130/21-1130.pdf)] [[code](https://github.com/NicholasJohnson2020/SparseLowRankSoftware)]
-- [2022] Solving large-scale sparse PCA to certifiable (near) optimality, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]  [[code](https://github.com/ryancorywright/ScalableSPCA.jl)]
-- [2022] A Comparative Study of Multi-Objective Optimization Algorithms for Sparse Signal Reconstruction, Artificial Intelligence Review [[paper](https://link.springer.com/article/10.1007/s10462-021-10073-5)]
-- [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study [[paper](https://ieeexplore.ieee.org/document/7458185)]  [[code](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity)]
-- [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
-
+- [2023] Sparse Plus Low Rank Matrix Decomposition: A Discrete Optimization Approach, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/21-1130/21-1130.pdf)] [[Julia](https://github.com/NicholasJohnson2020/SparseLowRankSoftware)]
+- [2022] Solving large-scale sparse PCA to certifiable (near) optimality, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]  [[Julia](https://github.com/ryancorywright/ScalableSPCA.jl)]
+- [2022] A Comparative Study of Multi-Objective Optimization Algorithms for Sparse Signal Reconstruction, Artificial Intelligence Review [[Paper](https://link.springer.com/article/10.1007/s10462-021-10073-5)]
+- [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[Python](https://github.com/VITA-Group/Open-L2O)]
+- [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[Matlab](https://github.com/cszn/FFDNet)]
+- [2018] ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing, CVPR [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.html)] [[Python](https://github.com/jianzhangcs/ISTA-Net-PyTorch)]
+- [2018] Theoretical linear convergence of unfolded ISTA and its practical weights and thresholds, NIPS [[Paper](https://proceedings.neurips.cc/paper/2018/hash/cf8c9be2a4508a24ae92c9d3d379131d-Abstract.html)] [[Python](https://github.com/xchen-tamu/linear-lista-cpss)]
+- [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study [[Paper](https://ieeexplore.ieee.org/document/7458185)]  [[Matlab](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity)]
+- [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
+- [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/1679091c5a880faf6fb5e6087eb1b2dc-Abstract.html)] [[Matlab](https://github.com/yangyan92/Deep-ADMM-Net)]
+- [2015] Learning Efficient Sparse and Low Rank Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/7010964)]
+- [2010] Learning Fast Approximations of Sparse Coding, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[Matlab](https://github.com/minhnhat93/lfa_sc)]
 
 <a name="Applications" />
 
 ## Applications
-
-- [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9893402)] [[code](https://github.com/wenwenmin/SSNMF)]
-- [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
-- [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[code](https://github.com/icety3/FSPCA)]
-- [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
-- [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
-- [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
-- [2019] Optimization Problems Involving Group Sparsity Terms, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-018-1277-1)]
-- [2017] Tree Structure Sparsity Pattern Guided Convex Optimization for Compressive Sensing of Large-Scale Images, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7762896)]
-- [2016] Structured Sparse Regression via Greedy Hard Thresholding, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/8e82ab7243b7c66d768f1b8ce1c967eb-Abstract.html)]
-- [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
-- [2013] Exact Top-k Feature Selection via L2,0-norm Constraint, IJCAI [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=246737333a8e2e42b92be7a79f9508700b64c290)]  [[code]([https://github.com/icety3/FSPCA](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity/Exact%20top-k%20feature%20selection%20via%20l2%2C0-norm%20constraint))]
-- [2011] Structured Compressed Sensing: From Theory to Applications, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/5954192)]
-- [2009] Learning with Structured Sparsity, ICML [[paper](https://dl.acm.org/doi/abs/10.1145/1553374.1553429)]
+- [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
+- [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[Paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
+- [2023] Model-Based Deep Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
+- [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, JMLR [[Paper](https://jmlr.org/papers/v23/20-1297.html)] [[Python](https://github.com/Vandermode/TFPnP)]
+- [2023] Solving Inverse Problems With Deep Neural Networks – Robustness Included? IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9705105)]
+- [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9893402)] [[Matlab](https://github.com/wenwenmin/SSNMF)]
+- [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
+- [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[Matlab](https://github.com/icety3/FSPCA)]
+- [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
+- [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
+- [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
+- [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
+- [2021] Deep K-SVD Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9464674)]
+- [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
+- [2020] On the Convergence of Learning-Based Iterative Methods for Nonconvex Inverse Problemss, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8727950)] [[Matlab](https://github.com/Heyi007/FIMAt)]
+- [2019] Optimization Problems Involving Group Sparsity Terms, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-018-1277-1)]
+- [2017] Tree Structure Sparsity Pattern Guided Convex Optimization for Compressive Sensing of Large-Scale Images, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/7762896)]
+- [2016] Structured Sparse Regression via Greedy Hard Thresholding, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/8e82ab7243b7c66d768f1b8ce1c967eb-Abstract.html)]
+- [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
+- [2013] Exact Top-k Feature Selection via L2,0-norm Constraint, IJCAI [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=246737333a8e2e42b92be7a79f9508700b64c290)]  [[Matlab]([https://github.com/icety3/FSPCA](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity/Exact%20top-k%20feature%20selection%20via%20l2%2C0-norm%20constraint))]
+- [2011] Structured Compressed Sensing: From Theory to Applications, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/5954192)]
+- [2009] Learning with Structured Sparsity, ICML [[Paper](https://dl.acm.org/doi/abs/10.1145/1553374.1553429)]
 
 
 
 <a name="Journals" />
 
 ## Journals
-- Mathematical Programming [[link](https://www.springer.com/journal/10107/)]
-- SIAM Journal on Optimization [[link](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt)]
-- Mathematics of Operations Research [[link](http://mor.journal.informs.org/)]
+- Mathematical Programming [[Link](https://www.springer.com/journal/10107/)]
+- SIAM Journal on Optimization [[Link](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt)]
+- Mathematics of Operations Research [[Link](http://mor.journal.informs.org/)]
