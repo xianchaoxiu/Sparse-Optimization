@@ -47,7 +47,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2012] Accelerated Iterative Hard Thresholding, Signal Processing [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003197)]
 - [2011] Hard Thresholding Pursuit: An Algorithm for Compressive Sensing, SIAM Journal on Numerical Analysis [[Paper](https://epubs.siam.org/doi/abs/10.1137/100806278)]
 - [2010] Normalized Iterative Hard Thresholding: Guaranteed Stability and Performance, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/5419091)]
-- [2009] CoSaMP: Iterative Signal Recovery from Incomplete and Inaccurate Samples, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520308000638)] [[[Matlab](https://ww2.mathworks.cn/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery)]
+- [2009] CoSaMP: Iterative Signal Recovery from Incomplete and Inaccurate Samples, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520308000638)] [[Matlab](https://ww2.mathworks.cn/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery)]
 - [2007] Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/4407762)]
 - [2007] Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/4385788)]
 - [1993] Orthogonal Matching Pursuit: Recursive Function Approximation with Applications to Wavelet Decomposition, ACSSC  [[Paper](https://ieeexplore.ieee.org/abstract/document/342465)]
@@ -56,7 +56,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 ### Second-Order Algorithms
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[[Matlab](https://github.com/ShenglongZhou/GPNP)]
 - [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
-- [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, Journal of Machine Learning Research [[Paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[[Matlab](https://github.com/ShenglongZhou/NHTP)]
+- [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, Journal of Machine Learning Research [[Paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[Matlab](https://github.com/ShenglongZhou/NHTP)]
 - [2020] Greedy Projected Gradient-Newton Method for Sparse Logistic Regression, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8688642)]
 - [2017] Newton-Type Greedy Selection Methods for l0 -Constrained Minimization, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/7814339)]
 - [2017] Fast Newton Hard Thresholding Pursuit for Sparsity Constrained Non-Convex Optimization, KDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098165)]
@@ -127,7 +127,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2017] Tree Structure Sparsity Pattern Guided Convex Optimization for Compressive Sensing of Large-Scale Images, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/7762896)]
 - [2016] Structured Sparse Regression via Greedy Hard Thresholding, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/8e82ab7243b7c66d768f1b8ce1c967eb-Abstract.html)]
 - [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
-- [2013] Exact Top-k Feature Selection via L2,0-norm Constraint, IJCAI [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=246737333a8e2e42b92be7a79f9508700b64c290)]  [[Matlab]([https://github.com/icety3/FSPCA](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity/Exact%20top-k%20feature%20selection%20via%20l2%2C0-norm%20constraint))]
+- [2013] Exact Top-k Feature Selection via L2,0-norm Constraint, IJCAI [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=246737333a8e2e42b92be7a79f9508700b64c290)]  [[Matlab](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity/Exact%20top-k%20feature%20selection%20via%20l2%2C0-norm%20constraint)]
 - [2011] Structured Compressed Sensing: From Theory to Applications, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/5954192)]
 - [2009] Learning with Structured Sparsity, ICML [[Paper](https://dl.acm.org/doi/abs/10.1145/1553374.1553429)]
 
