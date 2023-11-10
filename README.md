@@ -54,8 +54,10 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
   
 ### Second-Order Algorithms
+- [2022] Sparse SVM for Sufficient Data Reduction, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/document/9415153)] [[[Matlab](https://github.com/ShenglongZhou/NSSVM)]
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[[Matlab](https://github.com/ShenglongZhou/GPNP)]
 - [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
+- [2021] Newton Hard-Thresholding Pursuit for Sparse Linear Complementarity Problem via A New Merit Function, SIAM Journal on Scientific Computing  [[Paper](https://epubs.siam.org/doi/10.1137/19M1301539)] [[[Matlab](https://github.com/ShenglongZhou/NHTP)]
 - [2021] Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit, Journal of Machine Learning Research [[Paper](https://jmlr.org/papers/volume22/19-026/19-026.pdf)] [[Matlab](https://github.com/ShenglongZhou/NHTP)]
 - [2020] Greedy Projected Gradient-Newton Method for Sparse Logistic Regression, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8688642)]
 - [2017] Newton-Type Greedy Selection Methods for l0 -Constrained Minimization, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/7814339)]
