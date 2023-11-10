@@ -8,7 +8,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [Applications](#Applications)
 - [Journals](#Journals)
   
-<strong> Last Update: 2023/11/8 </strong>
+<strong> Last Update: 2023/11/10 </strong>
 
 
 
@@ -27,6 +27,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2017] Non-convex Optimization for Machine Learning, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-058)]
 - [2015] Statistical Learning with sparsity: The Lasso and Generalizations, CRC Press [[book](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)]
 - [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[Book](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
+- [2012] Optimization with Sparsity-Inducing Penalties, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-015)]
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[Paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
 - [2012] 压缩感知, 中国科学 [[Paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
 
@@ -98,8 +99,10 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[Matlab](https://github.com/cszn/FFDNet)]
 - [2018] ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing, CVPR [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.html)] [[Python](https://github.com/jianzhangcs/ISTA-Net-PyTorch)]
 - [2018] Theoretical linear convergence of unfolded ISTA and its practical weights and thresholds, NIPS [[Paper](https://proceedings.neurips.cc/paper/2018/hash/cf8c9be2a4508a24ae92c9d3d379131d-Abstract.html)] [[Python](https://github.com/xchen-tamu/linear-lista-cpss)]
+- [2017] Compressed Sensing using Generative Models, ICML   [[Paper](http://proceedings.mlr.press/v70/bora17a.html)]
 - [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
 - [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/1679091c5a880faf6fb5e6087eb1b2dc-Abstract.html)] [[Matlab](https://github.com/yangyan92/Deep-ADMM-Net)]
+- [2016] Learning to Learn by Gradient Descent by Gradient Descent, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/fb87582825f9d28a8d42c5e5e5e8b23d-Abstract.html)] [[Python](https://github.com/chenwydj/learning-to-learn-by-gradient-descent-by-gradient-descent)]
 - [2015] Learning Efficient Sparse and Low Rank Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/7010964)]
 - [2010] Learning Fast Approximations of Sparse Coding, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[Matlab](https://github.com/minhnhat93/lfa_sc)]
 
