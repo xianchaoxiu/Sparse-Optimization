@@ -134,7 +134,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[Paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 - [2023] Model-Based Deep Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
 - [2023] Solving Inverse Problems With Deep Neural Networks – Robustness Included? IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9705105)]
-- [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, JMLR [[Paper](https://jmlr.org/papers/v23/20-1297.html)] [[Python](https://github.com/Vandermode/TFPnP)]
+- [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, Journal of Machine Learning Research [[Paper](https://jmlr.org/papers/v23/20-1297.html)] [[Python](https://github.com/Vandermode/TFPnP)]
 - [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
 - [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
 - [2020] On the Convergence of Learning-Based Iterative Methods for Nonconvex Inverse Problemss, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8727950)] [[Matlab](https://github.com/Heyi007/FIMAt)]
