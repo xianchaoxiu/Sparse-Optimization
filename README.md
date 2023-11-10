@@ -17,11 +17,13 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 ### Surveys
 - [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[R](https://github.com/hazimehh/L0Learn)]
 - [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press  [[Book](https://book-wright-ma.github.io/)]
+- [2022] Foundations of Computational Imaging: A Model-Based Approach, SIAM  [[Book](https://epubs.siam.org/doi/book/10.1137/1.9781611977134)]
 - [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[Paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
 - [2020] 稀疏优化理论与算法若干新进展, 运筹学学报 [[Paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
 - [2020] Statistical Foundations of Data Science, CRC Press  [[Book](https://www.taylorfrancis.com/books/mono/10.1201/9780429096280/statistical-foundations-data-science-jianqing-fan-runze-li-cun-hui-zhang-hui-zou)]
 - [2018] Optimization Methods for Large-Scale Machine Learning, SIAM Review  [[Paper](https://epubs.siam.org/doi/abs/10.1137/16M1080173)]
 - [2018] Sparse Optimization Theory and Methods, CRC Press [[Book](https://www.taylorfrancis.com/books/mono/10.1201/9781315113142/sparse-optimization-theory-methods-yun-bin-zhao)]
+- [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study [[Paper](https://ieeexplore.ieee.org/document/7458185)]  [[Matlab](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity)]
 - [2017] Non-convex Optimization for Machine Learning, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-058)]
 - [2015] Statistical Learning with sparsity: The Lasso and Generalizations, CRC Press [[book](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)]
 - [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[Book](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
@@ -99,30 +101,25 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[Matlab](https://github.com/cszn/FFDNet)]
 - [2018] ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing, CVPR [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.html)] [[Python](https://github.com/jianzhangcs/ISTA-Net-PyTorch)]
 - [2018] Theoretical linear convergence of unfolded ISTA and its practical weights and thresholds, NIPS [[Paper](https://proceedings.neurips.cc/paper/2018/hash/cf8c9be2a4508a24ae92c9d3d379131d-Abstract.html)] [[Python](https://github.com/xchen-tamu/linear-lista-cpss)]
-- [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study [[Paper](https://ieeexplore.ieee.org/document/7458185)]  [[Matlab](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity)]
 - [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
 - [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/1679091c5a880faf6fb5e6087eb1b2dc-Abstract.html)] [[Matlab](https://github.com/yangyan92/Deep-ADMM-Net)]
 - [2015] Learning Efficient Sparse and Low Rank Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/7010964)]
 - [2010] Learning Fast Approximations of Sparse Coding, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[Matlab](https://github.com/minhnhat93/lfa_sc)]
 
+
+
 <a name="Applications" />
 
 ## Applications
-- [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
-- [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[Paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
-- [2023] Model-Based Deep Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
-- [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, JMLR [[Paper](https://jmlr.org/papers/v23/20-1297.html)] [[Python](https://github.com/Vandermode/TFPnP)]
-- [2023] Solving Inverse Problems With Deep Neural Networks – Robustness Included? IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9705105)]
+
+### Feature Selection
 - [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9893402)] [[Matlab](https://github.com/wenwenmin/SSNMF)]
 - [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[Matlab](https://github.com/icety3/FSPCA)]
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
-- [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
 - [2021] Deep K-SVD Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9464674)]
-- [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
-- [2020] On the Convergence of Learning-Based Iterative Methods for Nonconvex Inverse Problemss, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8727950)] [[Matlab](https://github.com/Heyi007/FIMAt)]
 - [2019] Optimization Problems Involving Group Sparsity Terms, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-018-1277-1)]
 - [2017] Tree Structure Sparsity Pattern Guided Convex Optimization for Compressive Sensing of Large-Scale Images, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/7762896)]
 - [2016] Structured Sparse Regression via Greedy Hard Thresholding, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/8e82ab7243b7c66d768f1b8ce1c967eb-Abstract.html)]
@@ -130,6 +127,22 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2013] Exact Top-k Feature Selection via L2,0-norm Constraint, IJCAI [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=246737333a8e2e42b92be7a79f9508700b64c290)]  [[Matlab](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity/Exact%20top-k%20feature%20selection%20via%20l2%2C0-norm%20constraint)]
 - [2011] Structured Compressed Sensing: From Theory to Applications, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/5954192)]
 - [2009] Learning with Structured Sparsity, ICML [[Paper](https://dl.acm.org/doi/abs/10.1145/1553374.1553429)]
+
+
+### Computational Imaging
+- [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
+- [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[Paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
+- [2023] Model-Based Deep Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
+- [2023] Solving Inverse Problems With Deep Neural Networks – Robustness Included? IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9705105)]
+- [2022] Scientific Computational Imaging Code (SCICO),  Journal of Open Source Software   [[Paper](https://joss.theoj.org/papers/10.21105/joss.04722)] [[Python](https://github.com/lanl/scico)]
+- [2022] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, JMLR [[Paper](https://jmlr.org/papers/v23/20-1297.html)] [[Python](https://github.com/Vandermode/TFPnP)]
+- [2021] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
+- [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
+- [2020] On the Convergence of Learning-Based Iterative Methods for Nonconvex Inverse Problemss, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8727950)] [[Matlab](https://github.com/Heyi007/FIMAt)]
+- [2018] Plug-and-Play Unplugged: Optimization-Free Reconstruction Using Consensus Equilibrium, SIAM Journal on Imaging Sciences  [[Paper](https://epubs.siam.org/doi/abs/10.1137/17M1122451)]  [[Python](https://github.com/gbuzzard/PnP-MACE)]
+- [2017] SPORCO: A Python package for standard and convolutional sparse representations, Proceedings of the 15th Python in Science Conference  [[Paper](https://conference.scipy.org/proceedings/scipy2017/brendt_wohlberg.html)]  [[Python](https://github.com/bwohlberg/sporco)]
+
+
 
 
 
