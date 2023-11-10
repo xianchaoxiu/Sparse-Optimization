@@ -27,11 +27,8 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2017] Non-convex Optimization for Machine Learning, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-058)]
 - [2015] Statistical Learning with sparsity: The Lasso and Generalizations, CRC Press [[book](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)]
 - [2014] Sparse Modeling: Theory, Algorithms, and Applications, CRC Press [[Book](https://www.taylorfrancis.com/books/mono/10.1201/b17758/sparse-modeling-irina-rish-genady-grabarnik)]
-- [2012] 压缩感知, 中国科学 [[Paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
 - [2012] 压缩感知和稀疏优化简介, 运筹学学报  [[Paper](https://www.ort.shu.edu.cn/CN/Y2012/V16/I3/49)]
-- [2012] Online Learning and Online Convex Optimization, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-018)]
-- [2011] Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, Foundations and Trends in Machine Learning  [[Paper](https://www.nowpublishers.com/article/Details/MAL-016)]
-
+- [2012] 压缩感知, 中国科学 [[Paper](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7216/bevBnqMiAzjDxRHki.pdf)]
 
 
 
