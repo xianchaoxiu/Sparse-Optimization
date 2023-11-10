@@ -95,7 +95,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 ## Other Methods
 - [2023] Sparse Plus Low Rank Matrix Decomposition: A Discrete Optimization Approach, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/21-1130/21-1130.pdf)] [[Julia](https://github.com/NicholasJohnson2020/SparseLowRankSoftware)]
-- [2022] Solving large-scale sparse PCA to certifiable (near) optimality, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]  [[Julia](https://github.com/ryancorywright/ScalableSPCA.jl)]
+- [2022] Solving Large-Scale Sparse PCA to Certifiable (Near) Optimality, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]  [[Julia](https://github.com/ryancorywright/ScalableSPCA.jl)]
 - [2022] A Comparative Study of Multi-Objective Optimization Algorithms for Sparse Signal Reconstruction, Artificial Intelligence Review [[Paper](https://link.springer.com/article/10.1007/s10462-021-10073-5)]
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[Python](https://github.com/VITA-Group/Open-L2O)]
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[Matlab](https://github.com/cszn/FFDNet)]
