@@ -121,14 +121,18 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
+- [2022] Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization, Journal of Machine Learning Research  [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586725)]  [[Matlab](https://github.com/quanmingyao/FasTer)]
 - [2021] Deep K-SVD Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9464674)]
 - [2019] Optimization Problems Involving Group Sparsity Terms, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-018-1277-1)]
+- [2019] Large-Scale Low-Rank Matrix Learning with Nonconvex Regularizers, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/8416722)]  [[Matlab](https://github.com/quanmingyao/FaNCL)]
 - [2017] Tree Structure Sparsity Pattern Guided Convex Optimization for Compressive Sensing of Large-Scale Images, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/7762896)]
 - [2016] Structured Sparse Regression via Greedy Hard Thresholding, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/8e82ab7243b7c66d768f1b8ce1c967eb-Abstract.html)]
 - [2016] Group-Sparse Model Selection: Hardness and Relaxations, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7549088)]
 - [2013] Exact Top-k Feature Selection via L2,0-norm Constraint, IJCAI [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=246737333a8e2e42b92be7a79f9508700b64c290)]  [[Matlab](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity/Exact%20top-k%20feature%20selection%20via%20l2%2C0-norm%20constraint)]
 - [2011] Structured Compressed Sensing: From Theory to Applications, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/5954192)]
 - [2009] Learning with Structured Sparsity, ICML [[Paper](https://dl.acm.org/doi/abs/10.1145/1553374.1553429)]
+
+
 
 
 ### Computational Imaging
