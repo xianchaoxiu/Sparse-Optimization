@@ -121,7 +121,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
-- [2022] Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization, Journal of Machine Learning Research  [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586725)]  [[Matlab](https://github.com/quanmingyao/FasTer)]
+- [2022] Low-Rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization, Journal of Machine Learning Research  [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586725)]  [[Matlab](https://github.com/quanmingyao/FasTer)]
 - [2021] Deep K-SVD Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9464674)]
 - [2019] Optimization Problems Involving Group Sparsity Terms, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-018-1277-1)]
 - [2019] Large-Scale Low-Rank Matrix Learning with Nonconvex Regularizers, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/8416722)]  [[Matlab](https://github.com/quanmingyao/FaNCL)]
