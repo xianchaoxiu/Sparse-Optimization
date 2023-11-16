@@ -6,8 +6,8 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [Regularized Methods](#Regularized_Methods)
 - [Other Methods](#Other_Methods)
 - [Applications](#Applications)
-- [Tools](#Tools)
 - [Journals](#Journals)
+- [Tools](#Tools)
   
 <strong> Last Update: 2023/11/16 </strong>
 
@@ -122,11 +122,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Tools" />
 
-## Tools
-
-- TFOCS: Templates for First-Order Conic Solvers [[Link](http://cvxr.com/tfocs/)]
 
 
 
@@ -136,3 +132,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - Mathematical Programming [[Link](https://www.springer.com/journal/10107/)]
 - SIAM Journal on Optimization [[Link](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt)]
 - Mathematics of Operations Research [[Link](http://mor.journal.informs.org/)]
+
+<a name="Tools" />
+
+## Tools
+
+- TFOCS: Templates for First-Order Conic Solvers [[Link](http://cvxr.com/tfocs/)]
