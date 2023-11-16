@@ -1,20 +1,21 @@
 # Sparse Optimization
 
 We now focus on nonconvex nonsmooth optimization problems involving l0 norm instead of convex/nonconvex surrogates.
-- [Surveys](#Surveys)
-- [Constrained Methods](#Constrained_Methods)
-- [Regularized Methods](#Regularized_Methods)
-- [Other Methods](#Other_Methods)
-- [Applications](#Applications)
-- [Journals](#Journals)
+- [Survey](#Survey)
+- [Constrained Method](#Constrained_Method)
+- [Regularized Method](#Regularized_Method)
+- [Other Method](#Other_Method)
+- [Application](#Application)
+- [Toolbox](#Toolbox)
+- [Journal](#Journal)
   
 <strong> Last Update: 2023/11/16 </strong>
 
 
 
-<a name="Surveys" />
+<a name="Survey" />
 
-### Surveys
+### Survey
 - [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[R](https://github.com/hazimehh/L0Learn)]
 - [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press  [[Book](https://book-wright-ma.github.io/)]
 - [2022] Foundations of Computational Imaging: A Model-Based Approach, SIAM  [[Book](https://epubs.siam.org/doi/book/10.1137/1.9781611977134)]
@@ -33,11 +34,11 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Constrained_Methods" />
+<a name="Constrained_Method" />
 
-## Constrained Methods
+## Constrained Method
 
-### First-Order Algorithms
+### First-Order Algorithm
 - [2017] Gradient Hard Thresholding Pursuit, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume18/14-415/14-415.pdf)]
 - [2017] A Convergent Iterative Hard Thresholding for Nonnegative Sparsity Optimization, Pacific Journal of Optimization  [[Paper](http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html)] [[Matlab](https://github.com/ShenglongZhou/IIHT)]
 - [2016] On the Minimization over Sparse Symmetric Sets: Projections, Optimality Conditions, and Algorithms, Mathematics of Operations Research [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0722)] 
@@ -53,7 +54,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [1993] Orthogonal Matching Pursuit: Recursive Function Approximation with Applications to Wavelet Decomposition, Proceedings of 27th Asilomar Conference on Signals, Systems and Computers  [[Paper](https://ieeexplore.ieee.org/abstract/document/342465)]
 
   
-### Second-Order Algorithms
+### Second-Order Algorithm
 - [2022] Sparse SVM for Sufficient Data Reduction, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/document/9415153)] [[Matlab](https://github.com/ShenglongZhou/NSSVM)]
 - [2022] Gradient Projection Newton Pursuit for Sparsity Constrained Optimization, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520322000458)] [[Matlab](https://github.com/ShenglongZhou/GPNP)]
 - [2022] A Lagrange-Newton Algorithm for Sparse Nonlinear Programming, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-021-01719-x)]
@@ -65,11 +66,11 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 - [2013] Greedy Sparsity-Constrained Optimization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf)]
 
 
-<a name="Regularized_Methods" />
+<a name="Regularized_Method" />
 
-## Regularized Methods
+## Regularized Method
 
-### First-Order Algorithms
+### First-Order Algorithm
 - [2020] An Active Set Barzilar-Borwein Algorithm for L0 Regularized Optimization, Journal of Global Optimization [[Paper](https://link.springer.com/article/10.1007/s10898-019-00830-w)]
 - [2020] A Smoothing Proximal Gradient Algorithm for Nonsmooth Convex Regression with Cardinality Penalty, SIAM Journal on Numerical Analysis [[paper](https://epubs.siam.org/doi/abs/10.1137/18M1186009)]
 - [2018] Proximal Mapping for Symmetric Penalty and Sparsity, SIAM Journal on Optimization  [[Paper](https://epubs.siam.org/doi/abs/10.1137/17M1116544)]
@@ -82,7 +83,7 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-### Second-Order Algorithms
+### Second-Order Algorithm
 - [2023] Revisiting Lq (0<=q<1) Norm Regularized Optimization, ArXiv [[Paper](https://arxiv.org/abs/2306.14394)] [[Matlab](https://github.com/ShenglongZhou/PSNP)]
 - [2022] Newton Method for L0-Regularized Optimization, Numerical Algorithms [[Paper](https://link.springer.com/article/10.1007/s11075-021-01085-x)] [[Matlab](https://github.com/ShenglongZhou/NL0R)]
 - [2018] A Constructive Approach to l0 Penalized Regression, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume19/17-194/17-194.pdf)]
@@ -91,9 +92,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Other_Methods" />
+<a name="Other_Method" />
 
-## Other Methods
+## Other Method
 - [2023] Sparse Plus Low Rank Matrix Decomposition: A Discrete Optimization Approach, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/21-1130/21-1130.pdf)] [[Julia](https://github.com/NicholasJohnson2020/SparseLowRankSoftware)]
 - [2022] A Comparative Study of Multi-Objective Optimization Algorithms for Sparse Signal Reconstruction, Artificial Intelligence Review [[Paper](https://link.springer.com/article/10.1007/s10462-021-10073-5)]
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[Python](https://github.com/VITA-Group/Open-L2O)]
@@ -105,9 +106,9 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Applications" />
+<a name="Application" />
 
-## Applications
+## Application
 
 - [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9893402)] [[Matlab](https://github.com/wenwenmin/SSNMF)]
 - [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
@@ -121,9 +122,17 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm inst
 
 
 
-<a name="Journals" />
+<a name="Toolbox" />
 
-## Journals
+## Toolbox
+
+- TFOCS: Templates for First-Order Conic Solvers [[Link](http://cvxr.com/tfocs/)]
+
+
+
+<a name="Journal" />
+
+## Journal
 - Mathematical Programming [[Link](https://www.springer.com/journal/10107/)]
 - SIAM Journal on Optimization [[Link](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt)]
 - Mathematics of Operations Research [[Link](http://mor.journal.informs.org/)]
