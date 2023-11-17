@@ -50,7 +50,7 @@ I am currently working on nonconvex nonsmooth optimization problems involving l0
 - [2009] CoSaMP: Iterative Signal Recovery from Incomplete and Inaccurate Samples, Applied and Computational Harmonic Analysis [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520308000638)] [[Matlab](https://ww2.mathworks.cn/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery)]
 - [2007] Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/4407762)]
 - [2007] Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/4385788)]
-- [1993] Orthogonal Matching Pursuit: Recursive Function Approximation with Applications to Wavelet Decomposition, Proceedings of 27th Asilomar Conference on Signals, Systems and Computers  [[Paper](https://ieeexplore.ieee.org/abstract/document/342465)]
+- [1993] Orthogonal Matching Pursuit: Recursive Function Approximation with Applications to Wavelet Decomposition, IEEE ACSSC  [[Paper](https://ieeexplore.ieee.org/abstract/document/342465)]
 
   
 ### Second-Order Algorithms
