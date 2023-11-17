@@ -15,7 +15,6 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 <a name="Surveys" />
 
 ### Surveys
-- [2023] L0learn: A Scalable Package for Sparse Learning Using L0 Regularization, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf)]  [[R](https://github.com/hazimehh/L0Learn)]
 - [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press  [[Book](https://book-wright-ma.github.io/)]
 - [2022] Foundations of Computational Imaging: A Model-Based Approach, SIAM  [[Book](https://epubs.siam.org/doi/book/10.1137/1.9781611977134)]
 - [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[Paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
@@ -137,3 +136,5 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 ## Tools
 
 - TFOCS: Templates for First-Order Conic Solvers [[Link](http://cvxr.com/tfocs/)]
+- L0learn: A Scalable Package for Sparse Learning Using L0 Regularization  [[Link](https://github.com/hazimehh/L0Learn)]
+
