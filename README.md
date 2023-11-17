@@ -1,6 +1,5 @@
 # Sparse Optimization
-
-We now focus on nonconvex nonsmooth optimization problems involving l0 norm instead of convex/nonconvex surrogates.
+I am currently working on nonconvex nonsmooth optimization problems involving l0 norm instead of convex/nonconvex surrogates.
 - [Surveys](#Surveys)
 - [Constrained Methods](#Constrained_Methods)
 - [Regularized Methods](#Regularized_Methods)
