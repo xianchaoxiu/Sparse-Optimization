@@ -99,6 +99,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 - [2020] ADMM-CSNet: A Deep Learning Approach for Image Compressive Sensing, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8550778)] [[Python](https://github.com/yangyan92/Pytorch_ADMM-CSNet)]
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[Matlab](https://github.com/cszn/FFDNet)]
 - [2017] Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Meinhardt_Learning_Proximal_Operators_ICCV_2017_paper.html)] [[Python](https://github.com/tum-vision/learn_prox_ops)]
+- [2017] Compressed Sensing using Generative Models, ICML  [[Paper](http://proceedings.mlr.press/v70/bora17a.html)]
 - [2016] Maximal Sparsity with Deep Networks? NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/0d73a25092e5c1c9769a9f3255caa65a-Abstract.html)]
 - [2010] Learning Fast Approximations of Sparse Coding, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[Matlab](https://github.com/minhnhat93/lfa_sc)]
 
