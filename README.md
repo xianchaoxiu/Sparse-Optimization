@@ -139,5 +139,5 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 
 - TFOCS: Templates for First-Order Conic Solvers [[Link](http://cvxr.com/tfocs/)]
 - L0learn: A Scalable Package for Sparse Learning Using L0 Regularization  [[Link](https://github.com/hazimehh/L0Learn)]
-- scikit-feature: 40 popular feature selection algorithms [[Link](https://github.com/jundongl/scikit-feature)], more than 20 datasets [[Link](https://github.com/jundongl/scikit-feature/tree/master/skfeature/data)]
+- Scikit-feature: 40 Popular Feature Selection Algorithms With 25+ Datasets [[Link](https://github.com/jundongl/scikit-feature)]
 
