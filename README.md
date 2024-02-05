@@ -124,7 +124,6 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 
 ### One-Bit Compressive Sensing
 
-- [2023] Communication-Efficient Decentralized Federated Learning via One-Bit Compressive Sensing, arXiv [[Paper](https://arxiv.org/abs/2308.16671)]
 - [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
 - [2022] Computing One-Bit Compressive Sensing via Double-Sparsity Constrained Optimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9729395)] [[Matlab](https://github.com/ShenglongZhou/GPSP)]
 - [2022] One-Bit Compressive Sensing: Can We Go Deep and Blind?, IEEE SPL  [[Paper](https://ieeexplore.ieee.org/abstract/document/9812512)]
