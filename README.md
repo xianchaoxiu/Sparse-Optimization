@@ -142,6 +142,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 <a name="Links" />
 
 ## Links
+
 ### Journals
 - Mathematical Programming [[Link](https://www.springer.com/journal/10107/)]
 - SIAM Journal on Optimization [[Link](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt)]
@@ -149,6 +150,5 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 
 ### Tools
 - TFOCS: Templates for First-Order Conic Solvers [[Link](http://cvxr.com/tfocs/)]
-- L0learn: A Scalable Package for Sparse Learning Using L0 Regularization  [[Link](https://github.com/hazimehh/L0Learn)]
 - Scikit-feature: 40 Popular Feature Selection Algorithms With 25+ Datasets [[Link](https://github.com/jundongl/scikit-feature)]
 
