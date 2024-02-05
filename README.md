@@ -132,6 +132,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 - [2018] A Survey on One-Bit Compressed Sensing: Theory and Applications, Frontiers of Computer Science  [[Paper](https://link.springer.com/article/10.1007/s11704-017-6132-7)]
 - [2016] One-Bit Compressive Sensing With Norm Estimation, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7434599)] 
 - [2014] Efficient Algorithms for Robust One-Bit Compressive Sensing, ICML [[Paper](http://proceedings.mlr.press/v32/zhangc14.html)]
+- [2013] One-Bit Compressed Sensing by Linear Programming, Communications on Pure and Applied Mathematics  [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21442)]
 - [2013] Robust 1-Bit Compressive Sensing via Binary Stable Embeddings of Sparse Vectors, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/6418031)] 
 - [2012] Robust 1-bit Compressive Sensing Using Adaptive Outlier Pursuit, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/6178284)] 
 - [2008] 1-Bit Compressive Sensing, IEEE CISS  [[Paper](https://ieeexplore.ieee.org/abstract/document/4558487)]
