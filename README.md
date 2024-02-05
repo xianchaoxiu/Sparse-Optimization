@@ -110,6 +110,8 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 <a name="Applications" />
 
 ## Applications
+
+### Feature Selection
 - [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[Matlab](https://github.com/icety3/FSPCA)]
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
@@ -120,7 +122,19 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 - [2013] Exact Top-k Feature Selection via L2,0-norm Constraint, IJCAI [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=246737333a8e2e42b92be7a79f9508700b64c290)]  [[Matlab](https://github.com/guijiejie/Feature-selection/tree/master/Feature%20selection%20based%20on%20structured%20sparsity/Exact%20top-k%20feature%20selection%20via%20l2%2C0-norm%20constraint)]
 
 
+### One-Bit Compressive Sensing
 
+- [2023] Communication-Efficient Decentralized Federated Learning via One-Bit Compressive Sensing, arXiv [[Paper](https://arxiv.org/abs/2308.16671)]
+- [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
+- [2022] Computing One-Bit Compressive Sensing via Double-Sparsity Constrained Optimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9729395)] [[Matlab](https://github.com/ShenglongZhou/GPSP)]
+- [2022] One-Bit Compressive Sensing: Can We Go Deep and Blind?, IEEE SPL  [[Paper](https://ieeexplore.ieee.org/abstract/document/9812512)]
+- [2020] Model-Based Deep Learning for One-Bit Compressive Sensing, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9187438)]
+- [2018] A Survey on One-Bit Compressed Sensing: Theory and Applications, Frontiers of Computer Science  [[Paper](https://link.springer.com/article/10.1007/s11704-017-6132-7)]
+- [2016] One-Bit Compressive Sensing With Norm Estimation, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7434599)] 
+- [2014] Efficient Algorithms for Robust One-Bit Compressive Sensing, ICML [[Paper](http://proceedings.mlr.press/v32/zhangc14.html)]
+- [2013] Robust 1-Bit Compressive Sensing via Binary Stable Embeddings of Sparse Vectors, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/6418031)] 
+- [2012] Robust 1-bit Compressive Sensing Using Adaptive Outlier Pursuit, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/6178284)] 
+- [2008] 1-Bit Compressive Sensing, IEEE CISS  [[Paper](https://ieeexplore.ieee.org/abstract/document/4558487)]
 
 
 
