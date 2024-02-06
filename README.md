@@ -123,13 +123,19 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 
 
 ### One-Bit Compressive Sensing
-
+- [2024] One-Bit Supervision for Image Classification: Problem, Solution, and Beyond, ACM Transactions on Multimedia Computing, Communications, and Applications [[Paper](https://dl.acm.org/doi/abs/10.1145/3633779)]
+- [2023] Sparse Logistic Regression-Based One-Bit SAR Imaging, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10273421)]
+- [2023] One-Bit Compressed Sensing via Total Variation Minimization Method, Signal Processing [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168423000130)]
 - [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
+- [2022] One-Bit Phase Retrieval: More Samples Means Less Complexity?, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9896984)]
+- [2022] What Does a One-Bit Quanta Image Sensor Offer?, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/9868147)] 
 - [2022] Computing One-Bit Compressive Sensing via Double-Sparsity Constrained Optimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9729395)] [[Matlab](https://github.com/ShenglongZhou/GPSP)]
 - [2022] One-Bit Compressive Sensing: Can We Go Deep and Blind?, IEEE SPL  [[Paper](https://ieeexplore.ieee.org/abstract/document/9812512)]
 - [2022] NBIHT: An Efficient Algorithm for 1-Bit Compressed Sensing With Optimal Error Decay Rate, IEEE ITI  [[Paper](https://ieeexplore.ieee.org/abstract/document/9597562)]
+- [2021] One-Bit Tensor Completion via Transformed Tensor Singular Value Decomposition, Applied Mathematical Modelling [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21001165)]
 - [2021] Robust Recovery in 1-Bit Compressive Sensing via Lq-Constrained Least Squares, Signal Processing [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168420303662)]
 - [2020] Model-Based Deep Learning for One-Bit Compressive Sensing, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9187438)]
+- [2020]One-Bit Supervision for Image Classification, NIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/05f971b5ec196b8c65b75d2ef8267331-Abstract.html)]
 - [2020] Feature Selection and Classification of Noisy Proteomics Mass Spectrometry Data Based on One-Bit Perturbed
 Compressed Sensing, Bioinformatics [[Paper](https://academic.oup.com/bioinformatics/article/36/16/4423/5838182)]
 - [2019] One-Bit Compressive Sensing via Schur-Concave Function Minimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/8747470)] 
