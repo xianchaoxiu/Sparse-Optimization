@@ -112,6 +112,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 ## Applications
 
 ### Unsupervised Feature Selection
+- [2023] Effcient Top-K Feature Selection Using Coordinate Descent Method, AAAI  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26258)]  [[Matlab](https://github.com/solerxl/Code_For_AAAI_2023)]
 - [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[Matlab](https://github.com/icety3/FSPCA)]
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
