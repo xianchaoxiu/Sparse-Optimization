@@ -124,6 +124,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 
 
 ### One-Bit Compressive Sensing
+- [2024] OneBit: Towards Extremely Low-bit Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2402.11295.pdf)]
 - [2023] Sparse Logistic Regression-Based One-Bit SAR Imaging, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10273421)]
 - [2023] One-Bit Compressed Sensing via Total Variation Minimization Method, Signal Processing [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168423000130)]
 - [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
