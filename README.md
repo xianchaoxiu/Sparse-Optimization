@@ -15,6 +15,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 <a name="Surveys" />
 
 ### Surveys
+- [2023] Deep Learning Meets Sparse Regularization: A Signal Processing Perspective, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/document/10243466)]
 - [2022] High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press [[Book](https://book-wright-ma.github.io/)]
 - [2022] Foundations of Computational Imaging: A Model-Based Approach, SIAM [[Book](https://epubs.siam.org/doi/book/10.1137/1.9781611977134)]
 - [2022] 稀疏优化二阶算法研究进展, 数值计算与计算机应用 [[Paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
@@ -116,6 +117,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 - [2023] Structured Sparsity Optimization With Non-Convex Surrogates of L2,0-Norm: A Unified Algorithmic Framework, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9916142)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[Matlab](https://github.com/icety3/FSPCA)]
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and L2,0-Norm Constraint, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
+- [2022] Learning Deep Sparse Regularizers With Applications to Multi-View Clustering and Semi-Supervised Classification, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/document/9439159)]  [[Python](https://github.com/chenzl23/DSRL)]
 - [2022] Column L2,0-norm Regularized Factorization Model of Low-Rank Matrix Recovery and Its Computation, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M136205X)]
 - [2022] Unsupervised Feature Selection With Constrained l2,0-Norm and Optimized Graph, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9309097)]
 - [2022] Low-Rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization, Journal of Machine Learning Research  [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586725)]  [[Matlab](https://github.com/quanmingyao/FasTer)]
