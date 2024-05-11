@@ -138,7 +138,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 - [2021] One-Bit Tensor Completion via Transformed Tensor Singular Value Decomposition, Applied Mathematical Modelling [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21001165)]
 - [2021] Robust Recovery in 1-Bit Compressive Sensing via Lq-Constrained Least Squares, Signal Processing [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168420303662)]
 - [2020] Model-Based Deep Learning for One-Bit Compressive Sensing, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9187438)]
-- [2020]One-Bit Supervision for Image Classification, NIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/05f971b5ec196b8c65b75d2ef8267331-Abstract.html)]
+- [2020] One-Bit Supervision for Image Classification, NIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/05f971b5ec196b8c65b75d2ef8267331-Abstract.html)]
 - [2020] Feature Selection and Classification of Noisy Proteomics Mass Spectrometry Data Based on One-Bit Perturbed
 Compressed Sensing, Bioinformatics [[Paper](https://academic.oup.com/bioinformatics/article/36/16/4423/5838182)]
 - [2019] One-Bit Compressive Sensing via Schur-Concave Function Minimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/8747470)] 
