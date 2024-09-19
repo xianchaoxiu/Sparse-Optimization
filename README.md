@@ -3,7 +3,7 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 - [Surveys](#Surveys)
 - [Constrained Methods](#Constrained_Methods)
 - [Regularized Methods](#Regularized_Methods)
-- [Other Methods](#Other_Methods)
+- [Learning Methods](#Learning_Methods)
 - [Applications](#Applications)
 - [Links](#Links)
 
@@ -91,9 +91,9 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 
 
 
-<a name="Other_Methods" />
+<a name="Learning_Methods" />
 
-## Other Methods
+## Learning Methods
 - [2023] Sparse Plus Low Rank Matrix Decomposition: A Discrete Optimization Approach, Journal of Machine Learning Research [[Paper](https://www.jmlr.org/papers/volume24/21-1130/21-1130.pdf)] [[Julia](https://github.com/NicholasJohnson2020/SparseLowRankSoftware)]
 - [2022] A Comparative Study of Multi-Objective Optimization Algorithms for Sparse Signal Reconstruction, Artificial Intelligence Review [[Paper](https://link.springer.com/article/10.1007/s10462-021-10073-5)]
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[Python](https://github.com/VITA-Group/Open-L2O)]
