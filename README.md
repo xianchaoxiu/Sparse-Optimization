@@ -7,8 +7,10 @@ I am currently working on nonconvex optimization problems involving L0 norm inst
 - [Applications](#Applications)
 - [Links](#Links)
 
-  
-<strong> Last Update: 2024/2/5 </strong>
+
+> [!IMPORTANT]
+> **Last Update: 2024/02/05 (No longer updated!)**
+
 
 
 
